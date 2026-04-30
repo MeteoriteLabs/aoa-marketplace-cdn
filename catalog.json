@@ -1,8 +1,85 @@
 {
   "schemaVersion": "1.0.0",
-  "generatedAt": "2026-04-30T05:58:25.457Z",
-  "itemCount": 2,
+  "generatedAt": "2026-04-30T06:05:50.084Z",
+  "itemCount": 3,
   "items": [
+    {
+      "id": "plugin:aoa-curated/aoa-plugin-github-issues",
+      "type": "plugin",
+      "name": "GitHub Issues",
+      "description": "Bidirectional GitHub Issues sync — create, update, and resolve GitHub issues from AoA tasks",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "aoa-curated",
+        "url": "https://github.com/MeteoriteLabs/aoa-marketplace/tree/main/plugins/aoa-plugin-github-issues",
+        "locator": "plugins/aoa-plugin-github-issues"
+      },
+      "trust": {
+        "tier": "verified",
+        "source": "aoa-curated"
+      },
+      "status": "active",
+      "addedAt": "2026-04-30T06:05:27.406Z",
+      "capabilities": [
+        {
+          "id": "issues.read",
+          "description": "Read AoA issues to detect status changes for sync"
+        },
+        {
+          "id": "issues.update",
+          "description": "Update AoA issue status when a linked GitHub issue changes"
+        },
+        {
+          "id": "issue.comments.read",
+          "description": "Read AoA issue comments for bridging to GitHub"
+        },
+        {
+          "id": "issue.comments.create",
+          "description": "Post bridged GitHub comments to AoA issues"
+        },
+        {
+          "id": "plugin.state.read",
+          "description": "Read stored issue link mappings"
+        },
+        {
+          "id": "plugin.state.write",
+          "description": "Store and update issue link mappings"
+        },
+        {
+          "id": "events.subscribe",
+          "description": "Listen for issue.updated and issue.comment_added events"
+        },
+        {
+          "id": "http.outbound",
+          "description": "Send HTTPS requests to api.github.com"
+        },
+        {
+          "id": "secrets.read-ref",
+          "description": "Resolve your GitHub personal access token from the secrets store"
+        },
+        {
+          "id": "webhooks.receive",
+          "description": "Receive issue and comment events from GitHub webhooks"
+        },
+        {
+          "id": "agent.tools.register",
+          "description": "Expose search, link, and unlink tools to AoA agents"
+        },
+        {
+          "id": "instance.settings.register",
+          "description": "Register the GitHub Issues configuration page"
+        },
+        {
+          "id": "ui.detailTab.register",
+          "description": "Show the GitHub Issues detail tab on AoA issue pages"
+        }
+      ],
+      "category": "integrations",
+      "tags": [
+        "official"
+      ],
+      "featured": true
+    },
     {
       "id": "plugin:aoa-curated/aoa-plugin-slack",
       "type": "plugin",
@@ -19,7 +96,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-04-30T05:58:10.932Z",
+      "addedAt": "2026-04-30T06:05:27.407Z",
       "capabilities": [
         {
           "id": "slack.send_message",
@@ -56,7 +133,7 @@
         "source": "anthropic-skills"
       },
       "status": "active",
-      "addedAt": "2026-04-30T05:58:25.453Z",
+      "addedAt": "2026-04-30T06:05:50.081Z",
       "category": "productivity",
       "tags": [
         "official"
