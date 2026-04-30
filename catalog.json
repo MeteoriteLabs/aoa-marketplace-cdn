@@ -1,8 +1,45 @@
 {
   "schemaVersion": "1.0.0",
-  "generatedAt": "2026-04-30T00:33:19.938Z",
-  "itemCount": 1,
+  "generatedAt": "2026-04-30T00:44:24.337Z",
+  "itemCount": 2,
   "items": [
+    {
+      "id": "plugin:aoa-curated/aoa-plugin-slack",
+      "type": "plugin",
+      "name": "Slack",
+      "description": "Slack notifications and bidirectional sync — post when issues are created, completed, or need approval",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "aoa-curated",
+        "url": "https://github.com/MeteoriteLabs/aoa-marketplace/tree/main/plugins/aoa-plugin-slack",
+        "locator": "plugins/aoa-plugin-slack"
+      },
+      "trust": {
+        "tier": "verified",
+        "source": "aoa-curated"
+      },
+      "status": "active",
+      "addedAt": "2026-04-30T00:44:07.240Z",
+      "capabilities": [
+        {
+          "id": "slack.send_message",
+          "description": "Post messages to Slack channels in your workspace"
+        },
+        {
+          "id": "slack.read_channels",
+          "description": "Read message history from Slack channels you grant access to"
+        },
+        {
+          "id": "network.outbound",
+          "description": "Send HTTPS requests to slack.com APIs"
+        }
+      ],
+      "category": "integrations",
+      "tags": [
+        "official"
+      ],
+      "featured": true
+    },
     {
       "id": "skill:anthropic/template",
       "type": "skill",
@@ -19,7 +56,7 @@
         "source": "anthropic-skills"
       },
       "status": "active",
-      "addedAt": "2026-04-30T00:33:19.932Z",
+      "addedAt": "2026-04-30T00:44:24.333Z",
       "category": "productivity",
       "tags": [
         "official"
