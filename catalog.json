@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "generatedAt": "2026-04-30T00:44:24.337Z",
+  "generatedAt": "2026-04-30T05:58:25.457Z",
   "itemCount": 2,
   "items": [
     {
@@ -19,7 +19,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-04-30T00:44:07.240Z",
+      "addedAt": "2026-04-30T05:58:10.932Z",
       "capabilities": [
         {
           "id": "slack.send_message",
@@ -56,7 +56,7 @@
         "source": "anthropic-skills"
       },
       "status": "active",
-      "addedAt": "2026-04-30T00:44:24.333Z",
+      "addedAt": "2026-04-30T05:58:25.453Z",
       "category": "productivity",
       "tags": [
         "official"
