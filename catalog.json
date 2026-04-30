@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0.0",
-  "generatedAt": "2026-04-30T06:12:53.038Z",
-  "itemCount": 4,
+  "generatedAt": "2026-04-30T06:20:39.365Z",
+  "itemCount": 5,
   "items": [
     {
       "id": "plugin:aoa-curated/aoa-plugin-discord",
@@ -19,7 +19,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-04-30T06:12:34.770Z",
+      "addedAt": "2026-04-30T06:20:20.661Z",
       "capabilities": [
         {
           "id": "companies.read",
@@ -132,7 +132,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-04-30T06:12:34.773Z",
+      "addedAt": "2026-04-30T06:20:20.664Z",
       "capabilities": [
         {
           "id": "issues.read",
@@ -209,7 +209,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-04-30T06:12:34.773Z",
+      "addedAt": "2026-04-30T06:20:20.665Z",
       "capabilities": [
         {
           "id": "slack.send_message",
@@ -222,6 +222,131 @@
         {
           "id": "network.outbound",
           "description": "Send HTTPS requests to slack.com APIs"
+        }
+      ],
+      "category": "integrations",
+      "tags": [
+        "official"
+      ],
+      "featured": true
+    },
+    {
+      "id": "plugin:aoa-curated/aoa-plugin-telegram",
+      "type": "plugin",
+      "name": "Telegram",
+      "description": "Telegram notifications and bidirectional integration — push notifications on agent events, receive bot commands, approve requests with inline buttons, run multi-agent sessions in threads, handle media intake, and deploy proactive suggestion watches",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "aoa-curated",
+        "url": "https://github.com/MeteoriteLabs/aoa-marketplace/tree/main/plugins/aoa-plugin-telegram",
+        "locator": "plugins/aoa-plugin-telegram"
+      },
+      "trust": {
+        "tier": "verified",
+        "source": "aoa-curated"
+      },
+      "status": "active",
+      "addedAt": "2026-04-30T06:20:20.666Z",
+      "capabilities": [
+        {
+          "id": "companies.read",
+          "description": "Read AoA company data for per-company chat routing"
+        },
+        {
+          "id": "projects.read",
+          "description": "Read AoA project data for issue context and forum topic routing"
+        },
+        {
+          "id": "issues.read",
+          "description": "Read AoA issues to post notifications and populate Telegram messages"
+        },
+        {
+          "id": "issues.create",
+          "description": "Create AoA issues from Telegram bot commands"
+        },
+        {
+          "id": "issues.update",
+          "description": "Update AoA issue status from Telegram approval callbacks and commands"
+        },
+        {
+          "id": "issue.comments.read",
+          "description": "Read AoA issue comments for bridging inbound Telegram replies"
+        },
+        {
+          "id": "issue.comments.create",
+          "description": "Create AoA issue comments from inbound Telegram replies"
+        },
+        {
+          "id": "agents.read",
+          "description": "Read AoA agent status for /status and /agents commands"
+        },
+        {
+          "id": "agents.invoke",
+          "description": "Invoke AoA agents from Telegram commands and handoffs"
+        },
+        {
+          "id": "agent.sessions.create",
+          "description": "Start new agent sessions from Telegram threads"
+        },
+        {
+          "id": "agent.sessions.list",
+          "description": "List active agent sessions for a thread"
+        },
+        {
+          "id": "agent.sessions.send",
+          "description": "Send messages to agent sessions from Telegram"
+        },
+        {
+          "id": "agent.sessions.close",
+          "description": "Close agent sessions initiated from Telegram"
+        },
+        {
+          "id": "agent.tools.register",
+          "description": "Expose escalate_to_human, handoff_to_agent, discuss_with_agent, and register_watch tools to AoA agents"
+        },
+        {
+          "id": "events.subscribe",
+          "description": "Listen for issue, approval, and agent lifecycle events"
+        },
+        {
+          "id": "events.emit",
+          "description": "Emit plugin events for cross-plugin coordination (e.g. ACP handoff)"
+        },
+        {
+          "id": "plugin.state.read",
+          "description": "Read stored chat mappings, session registry, and escalation state"
+        },
+        {
+          "id": "plugin.state.write",
+          "description": "Store chat mappings, session registry, watch state, and escalation state"
+        },
+        {
+          "id": "http.outbound",
+          "description": "Send HTTPS requests to api.telegram.org"
+        },
+        {
+          "id": "secrets.read-ref",
+          "description": "Resolve Telegram bot token and AoA board API key from the secrets store"
+        },
+        {
+          "id": "activity.log.write",
+          "description": "Log approval decisions and agent actions to the AoA activity log"
+        },
+        {
+          "id": "metrics.write",
+          "description": "Emit notification count, command, and escalation metrics"
+        },
+        {
+          "id": "jobs.schedule",
+          "description": "Register recurring jobs for digest delivery, escalation timeouts, and proactive watches"
+        },
+        {
+          "id": "instance.settings.register",
+          "description": "Register per-instance configuration schema"
+        },
+        {
+          "id": "ui.page.register",
+          "description": "Register the Telegram settings UI page"
         }
       ],
       "category": "integrations",
@@ -246,7 +371,7 @@
         "source": "anthropic-skills"
       },
       "status": "active",
-      "addedAt": "2026-04-30T06:12:53.034Z",
+      "addedAt": "2026-04-30T06:20:39.361Z",
       "category": "productivity",
       "tags": [
         "official"
