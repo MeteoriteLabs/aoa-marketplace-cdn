@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "generatedAt": "2026-04-30T06:20:39.365Z",
+  "generatedAt": "2026-04-30T10:26:02.993Z",
   "itemCount": 5,
   "items": [
     {
@@ -11,15 +11,20 @@
       "version": "1.0.0",
       "source": {
         "adapter": "aoa-curated",
-        "url": "https://github.com/MeteoriteLabs/aoa-marketplace/tree/main/plugins/aoa-plugin-discord",
-        "locator": "plugins/aoa-plugin-discord"
+        "url": "https://github.com/MeteoriteLabs/aoa-marketplace/tree/5142e26c8c4a359668c08ee79ddc1c1aec7b20e6/plugins/aoa-plugin-discord",
+        "locator": "plugins/aoa-plugin-discord",
+        "commitSha": "5142e26c8c4a359668c08ee79ddc1c1aec7b20e6"
+      },
+      "npm": {
+        "packageName": "@armyofagents/aoa-plugin-discord",
+        "version": "1.0.0"
       },
       "trust": {
         "tier": "verified",
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-04-30T06:20:20.661Z",
+      "addedAt": "2026-04-30T10:25:47.923Z",
       "capabilities": [
         {
           "id": "companies.read",
@@ -124,15 +129,20 @@
       "version": "1.0.0",
       "source": {
         "adapter": "aoa-curated",
-        "url": "https://github.com/MeteoriteLabs/aoa-marketplace/tree/main/plugins/aoa-plugin-github-issues",
-        "locator": "plugins/aoa-plugin-github-issues"
+        "url": "https://github.com/MeteoriteLabs/aoa-marketplace/tree/5142e26c8c4a359668c08ee79ddc1c1aec7b20e6/plugins/aoa-plugin-github-issues",
+        "locator": "plugins/aoa-plugin-github-issues",
+        "commitSha": "5142e26c8c4a359668c08ee79ddc1c1aec7b20e6"
+      },
+      "npm": {
+        "packageName": "@armyofagents/aoa-plugin-github-issues",
+        "version": "1.0.0"
       },
       "trust": {
         "tier": "verified",
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-04-30T06:20:20.664Z",
+      "addedAt": "2026-04-30T10:25:47.928Z",
       "capabilities": [
         {
           "id": "issues.read",
@@ -201,15 +211,20 @@
       "version": "1.0.0",
       "source": {
         "adapter": "aoa-curated",
-        "url": "https://github.com/MeteoriteLabs/aoa-marketplace/tree/main/plugins/aoa-plugin-slack",
-        "locator": "plugins/aoa-plugin-slack"
+        "url": "https://github.com/MeteoriteLabs/aoa-marketplace/tree/5142e26c8c4a359668c08ee79ddc1c1aec7b20e6/plugins/aoa-plugin-slack",
+        "locator": "plugins/aoa-plugin-slack",
+        "commitSha": "5142e26c8c4a359668c08ee79ddc1c1aec7b20e6"
+      },
+      "npm": {
+        "packageName": "@armyofagents/aoa-plugin-slack",
+        "version": "1.0.0"
       },
       "trust": {
         "tier": "verified",
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-04-30T06:20:20.665Z",
+      "addedAt": "2026-04-30T10:25:47.929Z",
       "capabilities": [
         {
           "id": "slack.send_message",
@@ -238,15 +253,20 @@
       "version": "1.0.0",
       "source": {
         "adapter": "aoa-curated",
-        "url": "https://github.com/MeteoriteLabs/aoa-marketplace/tree/main/plugins/aoa-plugin-telegram",
-        "locator": "plugins/aoa-plugin-telegram"
+        "url": "https://github.com/MeteoriteLabs/aoa-marketplace/tree/5142e26c8c4a359668c08ee79ddc1c1aec7b20e6/plugins/aoa-plugin-telegram",
+        "locator": "plugins/aoa-plugin-telegram",
+        "commitSha": "5142e26c8c4a359668c08ee79ddc1c1aec7b20e6"
+      },
+      "npm": {
+        "packageName": "@armyofagents/aoa-plugin-telegram",
+        "version": "1.0.0"
       },
       "trust": {
         "tier": "verified",
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-04-30T06:20:20.666Z",
+      "addedAt": "2026-04-30T10:25:47.931Z",
       "capabilities": [
         {
           "id": "companies.read",
@@ -371,7 +391,7 @@
         "source": "anthropic-skills"
       },
       "status": "active",
-      "addedAt": "2026-04-30T06:20:39.361Z",
+      "addedAt": "2026-04-30T10:26:02.989Z",
       "category": "productivity",
       "tags": [
         "official"
