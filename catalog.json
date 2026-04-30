@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-04-30T00:33:19.938Z",
+  "itemCount": 1,
+  "items": [
+    {
+      "id": "skill:anthropic/template",
+      "type": "skill",
+      "name": "template-skill",
+      "description": "Replace with description of the skill and when Claude should use it.",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "anthropic-skills",
+        "url": "https://github.com/anthropics/skills/tree/main/template",
+        "locator": "template"
+      },
+      "trust": {
+        "tier": "verified",
+        "source": "anthropic-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-04-30T00:33:19.932Z",
+      "category": "productivity",
+      "tags": [
+        "official"
+      ],
+      "content": {
+        "inline": "---\nname: template-skill\ndescription: Replace with description of the skill and when Claude should use it.\n---\n\n# Insert instructions below\n"
+      }
+    }
+  ]
+}
