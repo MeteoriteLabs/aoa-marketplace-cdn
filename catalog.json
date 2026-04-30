@@ -1,8 +1,121 @@
 {
   "schemaVersion": "1.0.0",
-  "generatedAt": "2026-04-30T06:08:52.385Z",
-  "itemCount": 3,
+  "generatedAt": "2026-04-30T06:12:53.038Z",
+  "itemCount": 4,
   "items": [
+    {
+      "id": "plugin:aoa-curated/aoa-plugin-discord",
+      "type": "plugin",
+      "name": "Discord",
+      "description": "Discord notifications and bidirectional integration — push notifications on agent events, receive slash commands, approve requests with buttons, gather community intelligence, run multi-agent sessions in threads, and deploy proactive suggestions",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "aoa-curated",
+        "url": "https://github.com/MeteoriteLabs/aoa-marketplace/tree/main/plugins/aoa-plugin-discord",
+        "locator": "plugins/aoa-plugin-discord"
+      },
+      "trust": {
+        "tier": "verified",
+        "source": "aoa-curated"
+      },
+      "status": "active",
+      "addedAt": "2026-04-30T06:12:34.770Z",
+      "capabilities": [
+        {
+          "id": "companies.read",
+          "description": "Read AoA company data for per-company channel routing"
+        },
+        {
+          "id": "projects.read",
+          "description": "Read AoA project data for issue context and channel routing"
+        },
+        {
+          "id": "issues.read",
+          "description": "Read AoA issues to post notifications and populate Discord embeds"
+        },
+        {
+          "id": "issue.comments.read",
+          "description": "Read AoA issue comments for bridging to Discord threads"
+        },
+        {
+          "id": "issues.create",
+          "description": "Create AoA issues from Discord slash commands"
+        },
+        {
+          "id": "issues.update",
+          "description": "Update AoA issue status from Discord approval buttons and commands"
+        },
+        {
+          "id": "agents.read",
+          "description": "Read AoA agent status for /clip status and /clip agents commands"
+        },
+        {
+          "id": "agent.sessions.create",
+          "description": "Start new agent sessions from Discord threads"
+        },
+        {
+          "id": "agent.sessions.send",
+          "description": "Send messages to agent sessions from Discord threads"
+        },
+        {
+          "id": "agent.sessions.close",
+          "description": "Close agent sessions initiated from Discord"
+        },
+        {
+          "id": "agents.invoke",
+          "description": "Invoke AoA agents from Discord slash commands and handoffs"
+        },
+        {
+          "id": "events.subscribe",
+          "description": "Listen for issue, approval, and agent lifecycle events"
+        },
+        {
+          "id": "plugin.state.read",
+          "description": "Read stored channel mappings, session registry, and escalation state"
+        },
+        {
+          "id": "plugin.state.write",
+          "description": "Store channel mappings, session registry, intelligence signals, and escalation state"
+        },
+        {
+          "id": "http.outbound",
+          "description": "Send HTTPS requests to discord.com APIs"
+        },
+        {
+          "id": "secrets.read-ref",
+          "description": "Resolve Discord bot token and AoA board API key from the secrets store"
+        },
+        {
+          "id": "webhooks.receive",
+          "description": "Receive Discord interaction payloads (slash commands, button clicks)"
+        },
+        {
+          "id": "activity.log.write",
+          "description": "Log approval decisions and agent actions to the AoA activity log"
+        },
+        {
+          "id": "metrics.write",
+          "description": "Emit notification count, command, and intelligence metrics"
+        },
+        {
+          "id": "agent.tools.register",
+          "description": "Expose discord_signals, escalate_to_human, handoff_to_agent, discuss_with_agent, register_custom_command, and register_watch tools to AoA agents"
+        },
+        {
+          "id": "jobs.schedule",
+          "description": "Register recurring jobs for intelligence scans, escalation timeouts, and daily digests"
+        },
+        {
+          "id": "events.emit",
+          "description": "Emit plugin events for cross-plugin coordination (e.g. ACP handoff)"
+        }
+      ],
+      "category": "integrations",
+      "tags": [
+        "official"
+      ],
+      "featured": true
+    },
     {
       "id": "plugin:aoa-curated/aoa-plugin-github-issues",
       "type": "plugin",
@@ -19,7 +132,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-04-30T06:08:31.493Z",
+      "addedAt": "2026-04-30T06:12:34.773Z",
       "capabilities": [
         {
           "id": "issues.read",
@@ -96,7 +209,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-04-30T06:08:31.494Z",
+      "addedAt": "2026-04-30T06:12:34.773Z",
       "capabilities": [
         {
           "id": "slack.send_message",
@@ -133,7 +246,7 @@
         "source": "anthropic-skills"
       },
       "status": "active",
-      "addedAt": "2026-04-30T06:08:52.381Z",
+      "addedAt": "2026-04-30T06:12:53.034Z",
       "category": "productivity",
       "tags": [
         "official"
