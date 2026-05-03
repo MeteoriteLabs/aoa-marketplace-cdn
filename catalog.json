@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-02T05:41:27.754Z",
+  "generatedAt": "2026-05-03T06:08:58.287Z",
   "itemCount": 5,
   "items": [
     {
@@ -24,7 +24,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-02T05:41:09.718Z",
+      "addedAt": "2026-05-03T06:08:40.111Z",
       "capabilities": [
         {
           "id": "companies.read",
@@ -142,7 +142,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-02T05:41:09.721Z",
+      "addedAt": "2026-05-03T06:08:40.114Z",
       "capabilities": [
         {
           "id": "issues.read",
@@ -224,7 +224,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-02T05:41:09.721Z",
+      "addedAt": "2026-05-03T06:08:40.115Z",
       "capabilities": [
         {
           "id": "slack.send_message",
@@ -266,7 +266,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-02T05:41:09.723Z",
+      "addedAt": "2026-05-03T06:08:40.116Z",
       "capabilities": [
         {
           "id": "companies.read",
@@ -391,7 +391,7 @@
         "source": "anthropic-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-02T05:41:27.750Z",
+      "addedAt": "2026-05-03T06:08:58.283Z",
       "category": "productivity",
       "tags": [
         "official"
