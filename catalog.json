@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-06T07:03:32.129Z",
+  "generatedAt": "2026-05-06T07:06:36.663Z",
   "itemCount": 5,
   "items": [
     {
@@ -11,9 +11,9 @@
       "version": "1.0.0",
       "source": {
         "adapter": "aoa-curated",
-        "url": "https://github.com/MeteoriteLabs/aoa-marketplace/tree/07be564153798e80cc877989a6f3e5175c85824d/plugins/aoa-plugin-discord",
+        "url": "https://github.com/MeteoriteLabs/aoa-marketplace/tree/c7910d73183a5c693b580cf3e3189164a71ed49d/plugins/aoa-plugin-discord",
         "locator": "plugins/aoa-plugin-discord",
-        "commitSha": "07be564153798e80cc877989a6f3e5175c85824d"
+        "commitSha": "c7910d73183a5c693b580cf3e3189164a71ed49d"
       },
       "npm": {
         "packageName": "@armyofagents/aoa-plugin-discord",
@@ -25,7 +25,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-06T07:03:17.740Z",
+      "addedAt": "2026-05-06T07:06:21.323Z",
       "capabilities": [
         {
           "id": "companies.read",
@@ -130,9 +130,9 @@
       "version": "1.0.0",
       "source": {
         "adapter": "aoa-curated",
-        "url": "https://github.com/MeteoriteLabs/aoa-marketplace/tree/07be564153798e80cc877989a6f3e5175c85824d/plugins/aoa-plugin-github-issues",
+        "url": "https://github.com/MeteoriteLabs/aoa-marketplace/tree/c7910d73183a5c693b580cf3e3189164a71ed49d/plugins/aoa-plugin-github-issues",
         "locator": "plugins/aoa-plugin-github-issues",
-        "commitSha": "07be564153798e80cc877989a6f3e5175c85824d"
+        "commitSha": "c7910d73183a5c693b580cf3e3189164a71ed49d"
       },
       "npm": {
         "packageName": "@armyofagents/aoa-plugin-github-issues",
@@ -144,7 +144,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-06T07:03:17.743Z",
+      "addedAt": "2026-05-06T07:06:21.327Z",
       "capabilities": [
         {
           "id": "issues.read",
@@ -217,9 +217,9 @@
       "version": "1.0.0",
       "source": {
         "adapter": "aoa-curated",
-        "url": "https://github.com/MeteoriteLabs/aoa-marketplace/tree/07be564153798e80cc877989a6f3e5175c85824d/plugins/aoa-plugin-slack",
+        "url": "https://github.com/MeteoriteLabs/aoa-marketplace/tree/c7910d73183a5c693b580cf3e3189164a71ed49d/plugins/aoa-plugin-slack",
         "locator": "plugins/aoa-plugin-slack",
-        "commitSha": "07be564153798e80cc877989a6f3e5175c85824d"
+        "commitSha": "c7910d73183a5c693b580cf3e3189164a71ed49d"
       },
       "npm": {
         "packageName": "@armyofagents/aoa-plugin-slack",
@@ -231,7 +231,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-06T07:03:17.743Z",
+      "addedAt": "2026-05-06T07:06:21.327Z",
       "capabilities": [
         {
           "id": "companies.read",
@@ -328,9 +328,9 @@
       "version": "1.0.0",
       "source": {
         "adapter": "aoa-curated",
-        "url": "https://github.com/MeteoriteLabs/aoa-marketplace/tree/07be564153798e80cc877989a6f3e5175c85824d/plugins/aoa-plugin-telegram",
+        "url": "https://github.com/MeteoriteLabs/aoa-marketplace/tree/c7910d73183a5c693b580cf3e3189164a71ed49d/plugins/aoa-plugin-telegram",
         "locator": "plugins/aoa-plugin-telegram",
-        "commitSha": "07be564153798e80cc877989a6f3e5175c85824d"
+        "commitSha": "c7910d73183a5c693b580cf3e3189164a71ed49d"
       },
       "npm": {
         "packageName": "@armyofagents/aoa-plugin-telegram",
@@ -342,7 +342,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-06T07:03:17.745Z",
+      "addedAt": "2026-05-06T07:06:21.329Z",
       "capabilities": [
         {
           "id": "companies.read",
@@ -467,7 +467,7 @@
         "source": "anthropic-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-06T07:03:32.126Z",
+      "addedAt": "2026-05-06T07:06:36.659Z",
       "category": "productivity",
       "tags": [
         "official"
