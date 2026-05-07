@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-06T07:06:36.663Z",
+  "generatedAt": "2026-05-07T06:14:39.435Z",
   "itemCount": 5,
   "items": [
     {
@@ -25,7 +25,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-06T07:06:21.323Z",
+      "addedAt": "2026-05-07T06:14:24.544Z",
       "capabilities": [
         {
           "id": "companies.read",
@@ -144,7 +144,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-06T07:06:21.327Z",
+      "addedAt": "2026-05-07T06:14:24.547Z",
       "capabilities": [
         {
           "id": "issues.read",
@@ -231,7 +231,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-06T07:06:21.327Z",
+      "addedAt": "2026-05-07T06:14:24.548Z",
       "capabilities": [
         {
           "id": "companies.read",
@@ -342,7 +342,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-06T07:06:21.329Z",
+      "addedAt": "2026-05-07T06:14:24.549Z",
       "capabilities": [
         {
           "id": "companies.read",
@@ -467,7 +467,7 @@
         "source": "anthropic-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-06T07:06:36.659Z",
+      "addedAt": "2026-05-07T06:14:39.431Z",
       "category": "productivity",
       "tags": [
         "official"
