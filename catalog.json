@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-07T06:14:39.435Z",
-  "itemCount": 5,
+  "generatedAt": "2026-05-07T10:36:10.709Z",
+  "itemCount": 68,
   "items": [
     {
       "id": "plugin:aoa-curated/aoa-plugin-discord",
@@ -11,9 +11,9 @@
       "version": "1.0.0",
       "source": {
         "adapter": "aoa-curated",
-        "url": "https://github.com/MeteoriteLabs/aoa-marketplace/tree/c7910d73183a5c693b580cf3e3189164a71ed49d/plugins/aoa-plugin-discord",
+        "url": "https://github.com/MeteoriteLabs/aoa-marketplace/tree/96a96e4013e60ba4abb6fa2eafd29d52b2a7f460/plugins/aoa-plugin-discord",
         "locator": "plugins/aoa-plugin-discord",
-        "commitSha": "c7910d73183a5c693b580cf3e3189164a71ed49d"
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
       },
       "npm": {
         "packageName": "@armyofagents/aoa-plugin-discord",
@@ -25,7 +25,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-07T06:14:24.544Z",
+      "addedAt": "2026-05-07T10:35:54.857Z",
       "capabilities": [
         {
           "id": "companies.read",
@@ -130,9 +130,9 @@
       "version": "1.0.0",
       "source": {
         "adapter": "aoa-curated",
-        "url": "https://github.com/MeteoriteLabs/aoa-marketplace/tree/c7910d73183a5c693b580cf3e3189164a71ed49d/plugins/aoa-plugin-github-issues",
+        "url": "https://github.com/MeteoriteLabs/aoa-marketplace/tree/96a96e4013e60ba4abb6fa2eafd29d52b2a7f460/plugins/aoa-plugin-github-issues",
         "locator": "plugins/aoa-plugin-github-issues",
-        "commitSha": "c7910d73183a5c693b580cf3e3189164a71ed49d"
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
       },
       "npm": {
         "packageName": "@armyofagents/aoa-plugin-github-issues",
@@ -144,7 +144,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-07T06:14:24.547Z",
+      "addedAt": "2026-05-07T10:35:54.860Z",
       "capabilities": [
         {
           "id": "issues.read",
@@ -217,9 +217,9 @@
       "version": "1.0.0",
       "source": {
         "adapter": "aoa-curated",
-        "url": "https://github.com/MeteoriteLabs/aoa-marketplace/tree/c7910d73183a5c693b580cf3e3189164a71ed49d/plugins/aoa-plugin-slack",
+        "url": "https://github.com/MeteoriteLabs/aoa-marketplace/tree/96a96e4013e60ba4abb6fa2eafd29d52b2a7f460/plugins/aoa-plugin-slack",
         "locator": "plugins/aoa-plugin-slack",
-        "commitSha": "c7910d73183a5c693b580cf3e3189164a71ed49d"
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
       },
       "npm": {
         "packageName": "@armyofagents/aoa-plugin-slack",
@@ -231,7 +231,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-07T06:14:24.548Z",
+      "addedAt": "2026-05-07T10:35:54.861Z",
       "capabilities": [
         {
           "id": "companies.read",
@@ -328,9 +328,9 @@
       "version": "1.0.0",
       "source": {
         "adapter": "aoa-curated",
-        "url": "https://github.com/MeteoriteLabs/aoa-marketplace/tree/c7910d73183a5c693b580cf3e3189164a71ed49d/plugins/aoa-plugin-telegram",
+        "url": "https://github.com/MeteoriteLabs/aoa-marketplace/tree/96a96e4013e60ba4abb6fa2eafd29d52b2a7f460/plugins/aoa-plugin-telegram",
         "locator": "plugins/aoa-plugin-telegram",
-        "commitSha": "c7910d73183a5c693b580cf3e3189164a71ed49d"
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
       },
       "npm": {
         "packageName": "@armyofagents/aoa-plugin-telegram",
@@ -342,7 +342,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-07T06:14:24.549Z",
+      "addedAt": "2026-05-07T10:35:54.862Z",
       "capabilities": [
         {
           "id": "companies.read",
@@ -467,7 +467,7 @@
         "source": "anthropic-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-07T06:14:39.431Z",
+      "addedAt": "2026-05-07T10:36:09.337Z",
       "category": "productivity",
       "tags": [
         "official"
@@ -475,6 +475,1462 @@
       "content": {
         "inline": "---\nname: template-skill\ndescription: Replace with description of the skill and when Claude should use it.\n---\n\n# Insert instructions below\n"
       }
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/SKILL.md",
+      "type": "skill",
+      "name": "gstack",
+      "description": "|",
+      "version": "1.1.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/SKILL.md",
+        "locator": "garrytan/gstack/SKILL.md",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.693Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/autoplan",
+      "type": "skill",
+      "name": "autoplan",
+      "description": "|",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/autoplan",
+        "locator": "garrytan/gstack/autoplan",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/autoplan/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.694Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/benchmark",
+      "type": "skill",
+      "name": "benchmark",
+      "description": "|",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/benchmark",
+        "locator": "garrytan/gstack/benchmark",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/benchmark/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.694Z",
+      "category": "engineering",
+      "tags": [
+        "requires-cli-tooling"
+      ],
+      "runtimeRequires": [
+        "gstack-browse-daemon"
+      ]
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/benchmark-models",
+      "type": "skill",
+      "name": "benchmark-models",
+      "description": "|",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/benchmark-models",
+        "locator": "garrytan/gstack/benchmark-models",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/benchmark-models/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.694Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/browse",
+      "type": "skill",
+      "name": "browse",
+      "description": "|",
+      "version": "1.1.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/browse",
+        "locator": "garrytan/gstack/browse",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/browse/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.694Z",
+      "category": "engineering",
+      "tags": [
+        "requires-cli-tooling"
+      ],
+      "runtimeRequires": [
+        "gstack-bin",
+        "gstack-browse-daemon"
+      ]
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/browser-skills",
+      "type": "skill",
+      "name": "hackernews-frontpage",
+      "description": "Scrape the Hacker News front page (titles, points, comment counts).",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/browser-skills/hackernews-frontpage",
+        "locator": "garrytan/gstack/browser-skills/hackernews-frontpage",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/browser-skills/hackernews-frontpage/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.695Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/canary",
+      "type": "skill",
+      "name": "canary",
+      "description": "|",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/canary",
+        "locator": "garrytan/gstack/canary",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/canary/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.695Z",
+      "category": "engineering",
+      "tags": [
+        "requires-cli-tooling"
+      ],
+      "runtimeRequires": [
+        "gstack-browse-daemon"
+      ]
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/careful",
+      "type": "skill",
+      "name": "careful",
+      "description": "|",
+      "version": "0.1.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/careful",
+        "locator": "garrytan/gstack/careful",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/careful/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.695Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/codex",
+      "type": "skill",
+      "name": "codex",
+      "description": "|",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/codex",
+        "locator": "garrytan/gstack/codex",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/codex/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.695Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/connect-chrome",
+      "type": "skill",
+      "name": "open-gstack-browser",
+      "description": "|",
+      "version": "0.2.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/connect-chrome",
+        "locator": "garrytan/gstack/connect-chrome",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/connect-chrome/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.695Z",
+      "category": "engineering",
+      "tags": [
+        "requires-cli-tooling"
+      ],
+      "runtimeRequires": [
+        "gstack-extension"
+      ]
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/context-restore",
+      "type": "skill",
+      "name": "context-restore",
+      "description": "|",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/context-restore",
+        "locator": "garrytan/gstack/context-restore",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/context-restore/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.695Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/context-save",
+      "type": "skill",
+      "name": "context-save",
+      "description": "|",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/context-save",
+        "locator": "garrytan/gstack/context-save",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/context-save/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.696Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/cso",
+      "type": "skill",
+      "name": "cso",
+      "description": "|",
+      "version": "2.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/cso",
+        "locator": "garrytan/gstack/cso",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/cso/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.696Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/design-consultation",
+      "type": "skill",
+      "name": "design-consultation",
+      "description": "|",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/design-consultation",
+        "locator": "garrytan/gstack/design-consultation",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/design-consultation/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.696Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/design-html",
+      "type": "skill",
+      "name": "design-html",
+      "description": "|",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/design-html",
+        "locator": "garrytan/gstack/design-html",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/design-html/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.696Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/design-review",
+      "type": "skill",
+      "name": "design-review",
+      "description": "|",
+      "version": "2.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/design-review",
+        "locator": "garrytan/gstack/design-review",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/design-review/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.697Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/design-shotgun",
+      "type": "skill",
+      "name": "design-shotgun",
+      "description": "|",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/design-shotgun",
+        "locator": "garrytan/gstack/design-shotgun",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/design-shotgun/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.697Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/devex-review",
+      "type": "skill",
+      "name": "devex-review",
+      "description": "|",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/devex-review",
+        "locator": "garrytan/gstack/devex-review",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/devex-review/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.697Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/document-release",
+      "type": "skill",
+      "name": "document-release",
+      "description": "|",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/document-release",
+        "locator": "garrytan/gstack/document-release",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/document-release/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.698Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/freeze",
+      "type": "skill",
+      "name": "freeze",
+      "description": "|",
+      "version": "0.1.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/freeze",
+        "locator": "garrytan/gstack/freeze",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/freeze/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.698Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/gstack-upgrade",
+      "type": "skill",
+      "name": "gstack-upgrade",
+      "description": "|",
+      "version": "1.1.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/gstack-upgrade",
+        "locator": "garrytan/gstack/gstack-upgrade",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/gstack-upgrade/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.698Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/guard",
+      "type": "skill",
+      "name": "guard",
+      "description": "|",
+      "version": "0.1.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/guard",
+        "locator": "garrytan/gstack/guard",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/guard/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.698Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/health",
+      "type": "skill",
+      "name": "health",
+      "description": "|",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/health",
+        "locator": "garrytan/gstack/health",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/health/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.698Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/investigate",
+      "type": "skill",
+      "name": "investigate",
+      "description": "|",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/investigate",
+        "locator": "garrytan/gstack/investigate",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/investigate/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.698Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/land-and-deploy",
+      "type": "skill",
+      "name": "land-and-deploy",
+      "description": "|",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/land-and-deploy",
+        "locator": "garrytan/gstack/land-and-deploy",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/land-and-deploy/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.699Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/landing-report",
+      "type": "skill",
+      "name": "landing-report",
+      "description": "|",
+      "version": "0.1.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/landing-report",
+        "locator": "garrytan/gstack/landing-report",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/landing-report/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.699Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/learn",
+      "type": "skill",
+      "name": "learn",
+      "description": "|",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/learn",
+        "locator": "garrytan/gstack/learn",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/learn/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.699Z",
+      "category": "engineering",
+      "tags": [
+        "requires-cli-tooling"
+      ],
+      "runtimeRequires": [
+        "gbrain"
+      ]
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/make-pdf",
+      "type": "skill",
+      "name": "make-pdf",
+      "description": "|",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/make-pdf",
+        "locator": "garrytan/gstack/make-pdf",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/make-pdf/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.699Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/office-hours",
+      "type": "skill",
+      "name": "office-hours",
+      "description": "|",
+      "version": "2.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/office-hours",
+        "locator": "garrytan/gstack/office-hours",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/office-hours/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.699Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/open-gstack-browser",
+      "type": "skill",
+      "name": "open-gstack-browser",
+      "description": "|",
+      "version": "0.2.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/open-gstack-browser",
+        "locator": "garrytan/gstack/open-gstack-browser",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/open-gstack-browser/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.699Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/openclaw",
+      "type": "skill",
+      "name": "gstack-openclaw-ceo-review",
+      "description": "Use when asked to review a plan, challenge a proposal, run a CEO review, poke holes in an approach, think bigger about scope, or decide whether to expand or reduce the plan.",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/openclaw/skills/gstack-openclaw-ceo-review",
+        "locator": "garrytan/gstack/openclaw/skills/gstack-openclaw-ceo-review",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/openclaw/skills/gstack-openclaw-ceo-review/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.699Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/pair-agent",
+      "type": "skill",
+      "name": "pair-agent",
+      "description": "|",
+      "version": "0.1.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/pair-agent",
+        "locator": "garrytan/gstack/pair-agent",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/pair-agent/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.700Z",
+      "category": "engineering",
+      "tags": [
+        "requires-cli-tooling"
+      ],
+      "runtimeRequires": [
+        "gstack-extension"
+      ]
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/plan-ceo-review",
+      "type": "skill",
+      "name": "plan-ceo-review",
+      "description": "|",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/plan-ceo-review",
+        "locator": "garrytan/gstack/plan-ceo-review",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/plan-ceo-review/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.700Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/plan-design-review",
+      "type": "skill",
+      "name": "plan-design-review",
+      "description": "|",
+      "version": "2.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/plan-design-review",
+        "locator": "garrytan/gstack/plan-design-review",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/plan-design-review/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.700Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/plan-devex-review",
+      "type": "skill",
+      "name": "plan-devex-review",
+      "description": "|",
+      "version": "2.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/plan-devex-review",
+        "locator": "garrytan/gstack/plan-devex-review",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/plan-devex-review/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.701Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/plan-eng-review",
+      "type": "skill",
+      "name": "plan-eng-review",
+      "description": "|",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/plan-eng-review",
+        "locator": "garrytan/gstack/plan-eng-review",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/plan-eng-review/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.701Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/plan-tune",
+      "type": "skill",
+      "name": "plan-tune",
+      "description": "|",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/plan-tune",
+        "locator": "garrytan/gstack/plan-tune",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/plan-tune/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.701Z",
+      "category": "engineering",
+      "tags": [
+        "requires-cli-tooling"
+      ],
+      "runtimeRequires": [
+        "gbrain"
+      ]
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/qa",
+      "type": "skill",
+      "name": "qa",
+      "description": "|",
+      "version": "2.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/qa",
+        "locator": "garrytan/gstack/qa",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/qa/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.702Z",
+      "category": "engineering",
+      "tags": [
+        "requires-cli-tooling"
+      ],
+      "runtimeRequires": [
+        "gstack-bin",
+        "gstack-browse-daemon"
+      ]
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/qa-only",
+      "type": "skill",
+      "name": "qa-only",
+      "description": "|",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/qa-only",
+        "locator": "garrytan/gstack/qa-only",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/qa-only/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.702Z",
+      "category": "engineering",
+      "tags": [
+        "requires-cli-tooling"
+      ],
+      "runtimeRequires": [
+        "gstack-bin",
+        "gstack-browse-daemon"
+      ]
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/retro",
+      "type": "skill",
+      "name": "retro",
+      "description": "|",
+      "version": "2.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/retro",
+        "locator": "garrytan/gstack/retro",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/retro/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.702Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/review",
+      "type": "skill",
+      "name": "review",
+      "description": "|",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/review",
+        "locator": "garrytan/gstack/review",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/review/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.702Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/scrape",
+      "type": "skill",
+      "name": "scrape",
+      "description": "|",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/scrape",
+        "locator": "garrytan/gstack/scrape",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/scrape/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.702Z",
+      "category": "engineering",
+      "tags": [
+        "requires-cli-tooling"
+      ],
+      "runtimeRequires": [
+        "gstack-bin",
+        "gstack-browse-daemon"
+      ]
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/setup-browser-cookies",
+      "type": "skill",
+      "name": "setup-browser-cookies",
+      "description": "|",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/setup-browser-cookies",
+        "locator": "garrytan/gstack/setup-browser-cookies",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/setup-browser-cookies/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.702Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/setup-deploy",
+      "type": "skill",
+      "name": "setup-deploy",
+      "description": "|",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/setup-deploy",
+        "locator": "garrytan/gstack/setup-deploy",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/setup-deploy/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.703Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/setup-gbrain",
+      "type": "skill",
+      "name": "setup-gbrain",
+      "description": "|",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/setup-gbrain",
+        "locator": "garrytan/gstack/setup-gbrain",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/setup-gbrain/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.703Z",
+      "category": "engineering",
+      "tags": [
+        "requires-cli-tooling"
+      ],
+      "runtimeRequires": [
+        "gbrain"
+      ]
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/ship",
+      "type": "skill",
+      "name": "ship",
+      "description": "|",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/ship",
+        "locator": "garrytan/gstack/ship",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/ship/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.703Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/skillify",
+      "type": "skill",
+      "name": "skillify",
+      "description": "|",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/skillify",
+        "locator": "garrytan/gstack/skillify",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/skillify/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.703Z",
+      "category": "engineering",
+      "tags": [
+        "requires-cli-tooling"
+      ],
+      "runtimeRequires": [
+        "gstack-bin",
+        "gstack-browse-daemon"
+      ]
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/sync-gbrain",
+      "type": "skill",
+      "name": "sync-gbrain",
+      "description": "|",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/sync-gbrain",
+        "locator": "garrytan/gstack/sync-gbrain",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/sync-gbrain/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.704Z",
+      "category": "engineering",
+      "tags": [
+        "requires-cli-tooling"
+      ],
+      "runtimeRequires": [
+        "gbrain"
+      ]
+    },
+    {
+      "id": "skill:github-skills/garrytan/gstack/unfreeze",
+      "type": "skill",
+      "name": "unfreeze",
+      "description": "|",
+      "version": "0.1.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/garrytan/gstack/tree/7b4738bca0d157c761894e548349cb85e61104ba/unfreeze",
+        "locator": "garrytan/gstack/unfreeze",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/garrytan/gstack/7b4738bca0d157c761894e548349cb85e61104ba/unfreeze/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.704Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/obra/superpowers/brainstorming",
+      "type": "skill",
+      "name": "brainstorming",
+      "description": "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation.",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/obra/superpowers/tree/f2cbfbefebbfef77321e4c9abc9e949826bea9d7/skills/brainstorming",
+        "locator": "obra/superpowers/skills/brainstorming",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/obra/superpowers/f2cbfbefebbfef77321e4c9abc9e949826bea9d7/skills/brainstorming/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.704Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/obra/superpowers/dispatching-parallel-agents",
+      "type": "skill",
+      "name": "dispatching-parallel-agents",
+      "description": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/obra/superpowers/tree/f2cbfbefebbfef77321e4c9abc9e949826bea9d7/skills/dispatching-parallel-agents",
+        "locator": "obra/superpowers/skills/dispatching-parallel-agents",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/obra/superpowers/f2cbfbefebbfef77321e4c9abc9e949826bea9d7/skills/dispatching-parallel-agents/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.705Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/obra/superpowers/executing-plans",
+      "type": "skill",
+      "name": "executing-plans",
+      "description": "Use when you have a written implementation plan to execute in a separate session with review checkpoints",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/obra/superpowers/tree/f2cbfbefebbfef77321e4c9abc9e949826bea9d7/skills/executing-plans",
+        "locator": "obra/superpowers/skills/executing-plans",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/obra/superpowers/f2cbfbefebbfef77321e4c9abc9e949826bea9d7/skills/executing-plans/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.705Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/obra/superpowers/finishing-a-development-branch",
+      "type": "skill",
+      "name": "finishing-a-development-branch",
+      "description": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options for merge, PR, or cleanup",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/obra/superpowers/tree/f2cbfbefebbfef77321e4c9abc9e949826bea9d7/skills/finishing-a-development-branch",
+        "locator": "obra/superpowers/skills/finishing-a-development-branch",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/obra/superpowers/f2cbfbefebbfef77321e4c9abc9e949826bea9d7/skills/finishing-a-development-branch/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.705Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/obra/superpowers/receiving-code-review",
+      "type": "skill",
+      "name": "receiving-code-review",
+      "description": "Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performative agreement or blind implementation",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/obra/superpowers/tree/f2cbfbefebbfef77321e4c9abc9e949826bea9d7/skills/receiving-code-review",
+        "locator": "obra/superpowers/skills/receiving-code-review",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/obra/superpowers/f2cbfbefebbfef77321e4c9abc9e949826bea9d7/skills/receiving-code-review/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.705Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/obra/superpowers/requesting-code-review",
+      "type": "skill",
+      "name": "requesting-code-review",
+      "description": "Use when completing tasks, implementing major features, or before merging to verify work meets requirements",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/obra/superpowers/tree/f2cbfbefebbfef77321e4c9abc9e949826bea9d7/skills/requesting-code-review",
+        "locator": "obra/superpowers/skills/requesting-code-review",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/obra/superpowers/f2cbfbefebbfef77321e4c9abc9e949826bea9d7/skills/requesting-code-review/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.705Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/obra/superpowers/subagent-driven-development",
+      "type": "skill",
+      "name": "subagent-driven-development",
+      "description": "Use when executing implementation plans with independent tasks in the current session",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/obra/superpowers/tree/f2cbfbefebbfef77321e4c9abc9e949826bea9d7/skills/subagent-driven-development",
+        "locator": "obra/superpowers/skills/subagent-driven-development",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/obra/superpowers/f2cbfbefebbfef77321e4c9abc9e949826bea9d7/skills/subagent-driven-development/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.705Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/obra/superpowers/systematic-debugging",
+      "type": "skill",
+      "name": "systematic-debugging",
+      "description": "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/obra/superpowers/tree/f2cbfbefebbfef77321e4c9abc9e949826bea9d7/skills/systematic-debugging",
+        "locator": "obra/superpowers/skills/systematic-debugging",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/obra/superpowers/f2cbfbefebbfef77321e4c9abc9e949826bea9d7/skills/systematic-debugging/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.705Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/obra/superpowers/test-driven-development",
+      "type": "skill",
+      "name": "test-driven-development",
+      "description": "Use when implementing any feature or bugfix, before writing implementation code",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/obra/superpowers/tree/f2cbfbefebbfef77321e4c9abc9e949826bea9d7/skills/test-driven-development",
+        "locator": "obra/superpowers/skills/test-driven-development",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/obra/superpowers/f2cbfbefebbfef77321e4c9abc9e949826bea9d7/skills/test-driven-development/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.705Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/obra/superpowers/using-git-worktrees",
+      "type": "skill",
+      "name": "using-git-worktrees",
+      "description": "Use when starting feature work that needs isolation from current workspace or before executing implementation plans - ensures an isolated workspace exists via native tools or git worktree fallback",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/obra/superpowers/tree/f2cbfbefebbfef77321e4c9abc9e949826bea9d7/skills/using-git-worktrees",
+        "locator": "obra/superpowers/skills/using-git-worktrees",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/obra/superpowers/f2cbfbefebbfef77321e4c9abc9e949826bea9d7/skills/using-git-worktrees/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.705Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/obra/superpowers/using-superpowers",
+      "type": "skill",
+      "name": "using-superpowers",
+      "description": "Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before ANY response including clarifying questions",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/obra/superpowers/tree/f2cbfbefebbfef77321e4c9abc9e949826bea9d7/skills/using-superpowers",
+        "locator": "obra/superpowers/skills/using-superpowers",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/obra/superpowers/f2cbfbefebbfef77321e4c9abc9e949826bea9d7/skills/using-superpowers/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.705Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/obra/superpowers/verification-before-completion",
+      "type": "skill",
+      "name": "verification-before-completion",
+      "description": "Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claims; evidence before assertions always",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/obra/superpowers/tree/f2cbfbefebbfef77321e4c9abc9e949826bea9d7/skills/verification-before-completion",
+        "locator": "obra/superpowers/skills/verification-before-completion",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/obra/superpowers/f2cbfbefebbfef77321e4c9abc9e949826bea9d7/skills/verification-before-completion/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.705Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/obra/superpowers/writing-plans",
+      "type": "skill",
+      "name": "writing-plans",
+      "description": "Use when you have a spec or requirements for a multi-step task, before touching code",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/obra/superpowers/tree/f2cbfbefebbfef77321e4c9abc9e949826bea9d7/skills/writing-plans",
+        "locator": "obra/superpowers/skills/writing-plans",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/obra/superpowers/f2cbfbefebbfef77321e4c9abc9e949826bea9d7/skills/writing-plans/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.705Z",
+      "category": "engineering",
+      "tags": []
+    },
+    {
+      "id": "skill:github-skills/obra/superpowers/writing-skills",
+      "type": "skill",
+      "name": "writing-skills",
+      "description": "Use when creating new skills, editing existing skills, or verifying skills work before deployment",
+      "version": "1.0.0",
+      "source": {
+        "adapter": "github-skills",
+        "url": "https://github.com/obra/superpowers/tree/f2cbfbefebbfef77321e4c9abc9e949826bea9d7/skills/writing-skills",
+        "locator": "obra/superpowers/skills/writing-skills",
+        "commitSha": "96a96e4013e60ba4abb6fa2eafd29d52b2a7f460"
+      },
+      "resourceUrl": "https://raw.githubusercontent.com/obra/superpowers/f2cbfbefebbfef77321e4c9abc9e949826bea9d7/skills/writing-skills/SKILL.md",
+      "trust": {
+        "tier": "verified",
+        "source": "github-skills"
+      },
+      "status": "active",
+      "addedAt": "2026-05-07T10:36:10.705Z",
+      "category": "engineering",
+      "tags": []
     }
   ]
 }
