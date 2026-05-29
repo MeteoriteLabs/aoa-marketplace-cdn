@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-29T06:58:36.977Z",
+  "generatedAt": "2026-05-29T08:03:15.012Z",
   "itemCount": 501,
   "items": [
     {
@@ -21,7 +21,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:07.258Z",
+      "addedAt": "2026-05-29T08:02:29.515Z",
       "category": "workflows",
       "tags": [
         "official"
@@ -76,7 +76,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:07.258Z",
+      "addedAt": "2026-05-29T08:02:29.516Z",
       "category": "workflows",
       "tags": [
         "official"
@@ -127,7 +127,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:07.259Z",
+      "addedAt": "2026-05-29T08:02:29.516Z",
       "category": "engineering",
       "tags": [
         "official"
@@ -206,7 +206,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:07.259Z",
+      "addedAt": "2026-05-29T08:02:29.516Z",
       "category": "workflows",
       "tags": [
         "official"
@@ -251,7 +251,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:07.259Z",
+      "addedAt": "2026-05-29T08:02:29.516Z",
       "category": "workflows",
       "tags": [
         "official"
@@ -288,7 +288,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:07.259Z",
+      "addedAt": "2026-05-29T08:02:29.516Z",
       "category": "workflows",
       "tags": [
         "official"
@@ -343,7 +343,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:07.259Z",
+      "addedAt": "2026-05-29T08:02:29.516Z",
       "category": "workflows",
       "tags": [
         "official"
@@ -398,7 +398,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:07.259Z",
+      "addedAt": "2026-05-29T08:02:29.516Z",
       "category": "engineering",
       "tags": [
         "official",
@@ -480,7 +480,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:07.260Z",
+      "addedAt": "2026-05-29T08:02:29.517Z",
       "category": "engineering",
       "tags": [
         "official",
@@ -608,7 +608,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:07.262Z",
+      "addedAt": "2026-05-29T08:02:29.520Z",
       "capabilities": [
         {
           "id": "companies.read",
@@ -734,7 +734,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:07.266Z",
+      "addedAt": "2026-05-29T08:02:29.523Z",
       "capabilities": [
         {
           "id": "issues.read",
@@ -828,7 +828,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:07.266Z",
+      "addedAt": "2026-05-29T08:02:29.523Z",
       "capabilities": [
         {
           "id": "companies.read",
@@ -946,7 +946,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:07.268Z",
+      "addedAt": "2026-05-29T08:02:29.525Z",
       "capabilities": [
         {
           "id": "companies.read",
@@ -1098,7 +1098,7 @@
         "source": "anthropic-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:30.741Z",
+      "addedAt": "2026-05-29T08:03:01.624Z",
       "category": "engineering",
       "tags": [
         "official"
@@ -1150,7 +1150,7 @@
         "source": "anthropic-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:30.742Z",
+      "addedAt": "2026-05-29T08:03:01.624Z",
       "category": "design",
       "tags": [
         "official"
@@ -1202,7 +1202,7 @@
         "source": "anthropic-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:30.742Z",
+      "addedAt": "2026-05-29T08:03:01.624Z",
       "category": "design",
       "tags": [
         "official"
@@ -1254,7 +1254,7 @@
         "source": "anthropic-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:30.771Z",
+      "addedAt": "2026-05-29T08:03:01.655Z",
       "category": "engineering",
       "tags": [
         "official"
@@ -1304,7 +1304,7 @@
         "source": "anthropic-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:30.775Z",
+      "addedAt": "2026-05-29T08:03:01.660Z",
       "category": "productivity",
       "tags": [
         "official"
@@ -1356,7 +1356,7 @@
         "source": "anthropic-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:30.775Z",
+      "addedAt": "2026-05-29T08:03:01.660Z",
       "category": "productivity",
       "tags": [
         "official"
@@ -1408,7 +1408,7 @@
         "source": "anthropic-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:30.780Z",
+      "addedAt": "2026-05-29T08:03:01.666Z",
       "category": "engineering",
       "tags": [
         "official"
@@ -1460,7 +1460,7 @@
         "source": "anthropic-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:30.781Z",
+      "addedAt": "2026-05-29T08:03:01.666Z",
       "category": "support",
       "tags": [
         "official"
@@ -1512,7 +1512,7 @@
         "source": "anthropic-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:30.781Z",
+      "addedAt": "2026-05-29T08:03:01.666Z",
       "category": "productivity",
       "tags": [
         "official"
@@ -1564,7 +1564,7 @@
         "source": "anthropic-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:30.782Z",
+      "addedAt": "2026-05-29T08:03:01.667Z",
       "category": "productivity",
       "tags": [
         "official"
@@ -1616,7 +1616,7 @@
         "source": "anthropic-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:30.782Z",
+      "addedAt": "2026-05-29T08:03:01.668Z",
       "category": "productivity",
       "tags": [
         "official"
@@ -1666,7 +1666,7 @@
         "source": "anthropic-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:30.787Z",
+      "addedAt": "2026-05-29T08:03:01.672Z",
       "category": "engineering",
       "tags": [
         "official"
@@ -1718,7 +1718,7 @@
         "source": "anthropic-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:30.788Z",
+      "addedAt": "2026-05-29T08:03:01.673Z",
       "category": "productivity",
       "tags": [
         "official"
@@ -1770,7 +1770,7 @@
         "source": "anthropic-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:30.789Z",
+      "addedAt": "2026-05-29T08:03:01.674Z",
       "category": "productivity",
       "tags": [
         "official"
@@ -1822,7 +1822,7 @@
         "source": "anthropic-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:30.790Z",
+      "addedAt": "2026-05-29T08:03:01.675Z",
       "category": "design",
       "tags": [
         "official"
@@ -1874,7 +1874,7 @@
         "source": "anthropic-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:30.790Z",
+      "addedAt": "2026-05-29T08:03:01.675Z",
       "category": "design",
       "tags": [
         "official"
@@ -1926,7 +1926,7 @@
         "source": "anthropic-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:30.790Z",
+      "addedAt": "2026-05-29T08:03:01.676Z",
       "category": "data",
       "tags": [
         "official"
@@ -1960,7 +1960,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:07.260Z",
+      "addedAt": "2026-05-29T08:02:29.517Z",
       "category": "design",
       "tags": [
         "official"
@@ -2011,7 +2011,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:07.260Z",
+      "addedAt": "2026-05-29T08:02:29.517Z",
       "category": "workflows",
       "tags": [
         "official"
@@ -2062,7 +2062,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.875Z",
+      "addedAt": "2026-05-29T08:03:14.923Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -2110,7 +2110,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.875Z",
+      "addedAt": "2026-05-29T08:03:14.923Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -2158,7 +2158,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.875Z",
+      "addedAt": "2026-05-29T08:03:14.923Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -2206,7 +2206,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.875Z",
+      "addedAt": "2026-05-29T08:03:14.923Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -2254,7 +2254,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.875Z",
+      "addedAt": "2026-05-29T08:03:14.923Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -2302,7 +2302,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.875Z",
+      "addedAt": "2026-05-29T08:03:14.924Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -2350,7 +2350,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.875Z",
+      "addedAt": "2026-05-29T08:03:14.924Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -2398,7 +2398,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.875Z",
+      "addedAt": "2026-05-29T08:03:14.924Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -2446,7 +2446,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.875Z",
+      "addedAt": "2026-05-29T08:03:14.924Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -2494,7 +2494,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.875Z",
+      "addedAt": "2026-05-29T08:03:14.924Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -2542,7 +2542,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.875Z",
+      "addedAt": "2026-05-29T08:03:14.924Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -2590,7 +2590,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.875Z",
+      "addedAt": "2026-05-29T08:03:14.924Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -2638,7 +2638,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.875Z",
+      "addedAt": "2026-05-29T08:03:14.924Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -2686,7 +2686,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.875Z",
+      "addedAt": "2026-05-29T08:03:14.924Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -2734,7 +2734,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.875Z",
+      "addedAt": "2026-05-29T08:03:14.924Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -2782,7 +2782,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.875Z",
+      "addedAt": "2026-05-29T08:03:14.924Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -2830,7 +2830,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.875Z",
+      "addedAt": "2026-05-29T08:03:14.924Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -2878,7 +2878,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.862Z",
+      "addedAt": "2026-05-29T08:03:14.906Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -2934,7 +2934,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.862Z",
+      "addedAt": "2026-05-29T08:03:14.906Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -2992,7 +2992,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.908Z",
+      "addedAt": "2026-05-29T08:03:14.952Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -3052,7 +3052,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.908Z",
+      "addedAt": "2026-05-29T08:03:14.952Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -3112,7 +3112,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.908Z",
+      "addedAt": "2026-05-29T08:03:14.952Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -3172,7 +3172,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.908Z",
+      "addedAt": "2026-05-29T08:03:14.952Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -3232,7 +3232,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.908Z",
+      "addedAt": "2026-05-29T08:03:14.952Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -3292,7 +3292,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.908Z",
+      "addedAt": "2026-05-29T08:03:14.952Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -3352,7 +3352,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.908Z",
+      "addedAt": "2026-05-29T08:03:14.952Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -3412,7 +3412,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.908Z",
+      "addedAt": "2026-05-29T08:03:14.952Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -3472,7 +3472,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.908Z",
+      "addedAt": "2026-05-29T08:03:14.953Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -3532,7 +3532,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.908Z",
+      "addedAt": "2026-05-29T08:03:14.953Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -3592,7 +3592,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.908Z",
+      "addedAt": "2026-05-29T08:03:14.953Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -3652,7 +3652,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.908Z",
+      "addedAt": "2026-05-29T08:03:14.953Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -3712,7 +3712,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.908Z",
+      "addedAt": "2026-05-29T08:03:14.953Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -3772,7 +3772,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.908Z",
+      "addedAt": "2026-05-29T08:03:14.953Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -3832,7 +3832,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.903Z",
+      "addedAt": "2026-05-29T08:03:14.945Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -3890,7 +3890,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.903Z",
+      "addedAt": "2026-05-29T08:03:14.945Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -3950,7 +3950,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.903Z",
+      "addedAt": "2026-05-29T08:03:14.945Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -4010,7 +4010,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.903Z",
+      "addedAt": "2026-05-29T08:03:14.946Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -4070,7 +4070,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.904Z",
+      "addedAt": "2026-05-29T08:03:14.946Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -4130,7 +4130,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.904Z",
+      "addedAt": "2026-05-29T08:03:14.946Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -4200,7 +4200,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.904Z",
+      "addedAt": "2026-05-29T08:03:14.946Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -4270,7 +4270,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.904Z",
+      "addedAt": "2026-05-29T08:03:14.946Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -4340,7 +4340,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.904Z",
+      "addedAt": "2026-05-29T08:03:14.946Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -4400,7 +4400,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.904Z",
+      "addedAt": "2026-05-29T08:03:14.946Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -4460,7 +4460,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.904Z",
+      "addedAt": "2026-05-29T08:03:14.946Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -4520,7 +4520,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.904Z",
+      "addedAt": "2026-05-29T08:03:14.946Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -4580,7 +4580,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.904Z",
+      "addedAt": "2026-05-29T08:03:14.946Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -4640,7 +4640,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.904Z",
+      "addedAt": "2026-05-29T08:03:14.946Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -4700,7 +4700,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.904Z",
+      "addedAt": "2026-05-29T08:03:14.946Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -4760,7 +4760,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.904Z",
+      "addedAt": "2026-05-29T08:03:14.946Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -4820,7 +4820,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.904Z",
+      "addedAt": "2026-05-29T08:03:14.946Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -4880,7 +4880,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.904Z",
+      "addedAt": "2026-05-29T08:03:14.946Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -4940,7 +4940,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.904Z",
+      "addedAt": "2026-05-29T08:03:14.947Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -5000,7 +5000,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.904Z",
+      "addedAt": "2026-05-29T08:03:14.947Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -5070,7 +5070,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.905Z",
+      "addedAt": "2026-05-29T08:03:14.947Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -5140,7 +5140,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.905Z",
+      "addedAt": "2026-05-29T08:03:14.947Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -5200,7 +5200,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.905Z",
+      "addedAt": "2026-05-29T08:03:14.947Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -5260,7 +5260,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.905Z",
+      "addedAt": "2026-05-29T08:03:14.947Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -5320,7 +5320,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.905Z",
+      "addedAt": "2026-05-29T08:03:14.947Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -5380,7 +5380,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.905Z",
+      "addedAt": "2026-05-29T08:03:14.947Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -5440,7 +5440,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.905Z",
+      "addedAt": "2026-05-29T08:03:14.947Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -5500,7 +5500,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.905Z",
+      "addedAt": "2026-05-29T08:03:14.947Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -5570,7 +5570,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.905Z",
+      "addedAt": "2026-05-29T08:03:14.947Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -5640,7 +5640,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.905Z",
+      "addedAt": "2026-05-29T08:03:14.947Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -5700,7 +5700,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.905Z",
+      "addedAt": "2026-05-29T08:03:14.947Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -5760,7 +5760,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.905Z",
+      "addedAt": "2026-05-29T08:03:14.947Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -5820,7 +5820,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.905Z",
+      "addedAt": "2026-05-29T08:03:14.947Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -5880,7 +5880,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.905Z",
+      "addedAt": "2026-05-29T08:03:14.947Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -5940,7 +5940,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.905Z",
+      "addedAt": "2026-05-29T08:03:14.947Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -5998,7 +5998,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.905Z",
+      "addedAt": "2026-05-29T08:03:14.948Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -6056,7 +6056,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.905Z",
+      "addedAt": "2026-05-29T08:03:14.948Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -6116,7 +6116,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.905Z",
+      "addedAt": "2026-05-29T08:03:14.948Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -6186,7 +6186,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.906Z",
+      "addedAt": "2026-05-29T08:03:14.948Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -6232,7 +6232,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.906Z",
+      "addedAt": "2026-05-29T08:03:14.948Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -6278,7 +6278,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.906Z",
+      "addedAt": "2026-05-29T08:03:14.948Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -6324,7 +6324,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.906Z",
+      "addedAt": "2026-05-29T08:03:14.948Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -6370,7 +6370,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.906Z",
+      "addedAt": "2026-05-29T08:03:14.948Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -6416,7 +6416,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.906Z",
+      "addedAt": "2026-05-29T08:03:14.949Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -6462,7 +6462,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.906Z",
+      "addedAt": "2026-05-29T08:03:14.949Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -6508,7 +6508,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.906Z",
+      "addedAt": "2026-05-29T08:03:14.949Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -6554,7 +6554,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.906Z",
+      "addedAt": "2026-05-29T08:03:14.949Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -6600,7 +6600,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.906Z",
+      "addedAt": "2026-05-29T08:03:14.949Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -6646,7 +6646,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.906Z",
+      "addedAt": "2026-05-29T08:03:14.949Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -6692,7 +6692,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.906Z",
+      "addedAt": "2026-05-29T08:03:14.949Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -6738,7 +6738,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.870Z",
+      "addedAt": "2026-05-29T08:03:14.916Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -6784,7 +6784,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.870Z",
+      "addedAt": "2026-05-29T08:03:14.916Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -6837,7 +6837,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.870Z",
+      "addedAt": "2026-05-29T08:03:14.916Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -6883,7 +6883,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.870Z",
+      "addedAt": "2026-05-29T08:03:14.916Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -6929,7 +6929,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.870Z",
+      "addedAt": "2026-05-29T08:03:14.916Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -6975,7 +6975,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.870Z",
+      "addedAt": "2026-05-29T08:03:14.916Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -7021,7 +7021,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.870Z",
+      "addedAt": "2026-05-29T08:03:14.916Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -7067,7 +7067,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.870Z",
+      "addedAt": "2026-05-29T08:03:14.917Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -7113,7 +7113,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.909Z",
+      "addedAt": "2026-05-29T08:03:14.953Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -7165,7 +7165,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.909Z",
+      "addedAt": "2026-05-29T08:03:14.953Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -7217,7 +7217,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.911Z",
+      "addedAt": "2026-05-29T08:03:14.956Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -7269,7 +7269,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.911Z",
+      "addedAt": "2026-05-29T08:03:14.956Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -7330,7 +7330,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.912Z",
+      "addedAt": "2026-05-29T08:03:14.958Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -7392,7 +7392,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.912Z",
+      "addedAt": "2026-05-29T08:03:14.958Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -7452,7 +7452,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.912Z",
+      "addedAt": "2026-05-29T08:03:14.958Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -7512,7 +7512,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.912Z",
+      "addedAt": "2026-05-29T08:03:14.958Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -7572,7 +7572,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.912Z",
+      "addedAt": "2026-05-29T08:03:14.958Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -7632,7 +7632,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.913Z",
+      "addedAt": "2026-05-29T08:03:14.958Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -7692,7 +7692,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.913Z",
+      "addedAt": "2026-05-29T08:03:14.958Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -7752,7 +7752,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.913Z",
+      "addedAt": "2026-05-29T08:03:14.958Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -7812,7 +7812,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.913Z",
+      "addedAt": "2026-05-29T08:03:14.958Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -7872,7 +7872,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.913Z",
+      "addedAt": "2026-05-29T08:03:14.958Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -7932,7 +7932,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.911Z",
+      "addedAt": "2026-05-29T08:03:14.956Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -7994,7 +7994,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.911Z",
+      "addedAt": "2026-05-29T08:03:14.956Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -8054,7 +8054,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.911Z",
+      "addedAt": "2026-05-29T08:03:14.956Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -8114,7 +8114,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.911Z",
+      "addedAt": "2026-05-29T08:03:14.956Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -8174,7 +8174,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.911Z",
+      "addedAt": "2026-05-29T08:03:14.956Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -8234,7 +8234,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.911Z",
+      "addedAt": "2026-05-29T08:03:14.956Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -8294,7 +8294,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.911Z",
+      "addedAt": "2026-05-29T08:03:14.956Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -8354,7 +8354,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.911Z",
+      "addedAt": "2026-05-29T08:03:14.956Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -8414,7 +8414,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.911Z",
+      "addedAt": "2026-05-29T08:03:14.956Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -8472,7 +8472,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.911Z",
+      "addedAt": "2026-05-29T08:03:14.956Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -8532,7 +8532,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.912Z",
+      "addedAt": "2026-05-29T08:03:14.957Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -8578,7 +8578,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.912Z",
+      "addedAt": "2026-05-29T08:03:14.957Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -8624,7 +8624,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.912Z",
+      "addedAt": "2026-05-29T08:03:14.957Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -8670,7 +8670,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.912Z",
+      "addedAt": "2026-05-29T08:03:14.957Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -8716,7 +8716,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.912Z",
+      "addedAt": "2026-05-29T08:03:14.957Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -8762,7 +8762,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.912Z",
+      "addedAt": "2026-05-29T08:03:14.957Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -8808,7 +8808,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.911Z",
+      "addedAt": "2026-05-29T08:03:14.956Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -8870,7 +8870,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.911Z",
+      "addedAt": "2026-05-29T08:03:14.956Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -8932,7 +8932,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.911Z",
+      "addedAt": "2026-05-29T08:03:14.956Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -8992,7 +8992,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.913Z",
+      "addedAt": "2026-05-29T08:03:14.958Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -9042,7 +9042,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.912Z",
+      "addedAt": "2026-05-29T08:03:14.957Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -9102,7 +9102,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.912Z",
+      "addedAt": "2026-05-29T08:03:14.958Z",
       "category": "operations",
       "tags": [],
       "skill": {
@@ -9162,7 +9162,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.865Z",
+      "addedAt": "2026-05-29T08:03:14.909Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -9208,7 +9208,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.865Z",
+      "addedAt": "2026-05-29T08:03:14.909Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -9257,7 +9257,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.865Z",
+      "addedAt": "2026-05-29T08:03:14.909Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -9308,7 +9308,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.865Z",
+      "addedAt": "2026-05-29T08:03:14.909Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -9357,7 +9357,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.865Z",
+      "addedAt": "2026-05-29T08:03:14.909Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -9403,7 +9403,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.865Z",
+      "addedAt": "2026-05-29T08:03:14.909Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -9454,7 +9454,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.865Z",
+      "addedAt": "2026-05-29T08:03:14.909Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -9503,7 +9503,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.865Z",
+      "addedAt": "2026-05-29T08:03:14.909Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -9552,7 +9552,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.865Z",
+      "addedAt": "2026-05-29T08:03:14.909Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -9601,7 +9601,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.865Z",
+      "addedAt": "2026-05-29T08:03:14.909Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -9650,7 +9650,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.865Z",
+      "addedAt": "2026-05-29T08:03:14.909Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -9699,7 +9699,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.865Z",
+      "addedAt": "2026-05-29T08:03:14.909Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -9745,7 +9745,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.865Z",
+      "addedAt": "2026-05-29T08:03:14.909Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -9791,7 +9791,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.865Z",
+      "addedAt": "2026-05-29T08:03:14.909Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -9840,7 +9840,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.866Z",
+      "addedAt": "2026-05-29T08:03:14.909Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -9889,7 +9889,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.866Z",
+      "addedAt": "2026-05-29T08:03:14.910Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -9938,7 +9938,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.896Z",
+      "addedAt": "2026-05-29T08:03:14.938Z",
       "category": "design",
       "tags": [],
       "skill": {
@@ -9986,7 +9986,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.896Z",
+      "addedAt": "2026-05-29T08:03:14.938Z",
       "category": "design",
       "tags": [],
       "skill": {
@@ -10034,7 +10034,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.896Z",
+      "addedAt": "2026-05-29T08:03:14.938Z",
       "category": "design",
       "tags": [],
       "skill": {
@@ -10082,7 +10082,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.896Z",
+      "addedAt": "2026-05-29T08:03:14.939Z",
       "category": "design",
       "tags": [],
       "skill": {
@@ -10128,7 +10128,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.896Z",
+      "addedAt": "2026-05-29T08:03:14.939Z",
       "category": "design",
       "tags": [],
       "skill": {
@@ -10176,7 +10176,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.896Z",
+      "addedAt": "2026-05-29T08:03:14.939Z",
       "category": "design",
       "tags": [],
       "skill": {
@@ -10224,7 +10224,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.896Z",
+      "addedAt": "2026-05-29T08:03:14.939Z",
       "category": "design",
       "tags": [],
       "skill": {
@@ -10272,7 +10272,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.896Z",
+      "addedAt": "2026-05-29T08:03:14.939Z",
       "category": "design",
       "tags": [],
       "skill": {
@@ -10320,7 +10320,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.915Z",
+      "addedAt": "2026-05-29T08:03:14.959Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -10367,7 +10367,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.915Z",
+      "addedAt": "2026-05-29T08:03:14.960Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -10413,7 +10413,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.915Z",
+      "addedAt": "2026-05-29T08:03:14.960Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -10461,7 +10461,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.915Z",
+      "addedAt": "2026-05-29T08:03:14.960Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -10507,7 +10507,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.915Z",
+      "addedAt": "2026-05-29T08:03:14.960Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -10555,7 +10555,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.915Z",
+      "addedAt": "2026-05-29T08:03:14.960Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -10601,7 +10601,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.915Z",
+      "addedAt": "2026-05-29T08:03:14.960Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -10649,7 +10649,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.915Z",
+      "addedAt": "2026-05-29T08:03:14.960Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -10695,7 +10695,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.915Z",
+      "addedAt": "2026-05-29T08:03:14.960Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -10743,7 +10743,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.915Z",
+      "addedAt": "2026-05-29T08:03:14.960Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -10789,7 +10789,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.915Z",
+      "addedAt": "2026-05-29T08:03:14.960Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -10837,7 +10837,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.916Z",
+      "addedAt": "2026-05-29T08:03:14.960Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -10891,7 +10891,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.916Z",
+      "addedAt": "2026-05-29T08:03:14.960Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -10945,7 +10945,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.916Z",
+      "addedAt": "2026-05-29T08:03:14.960Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -10999,7 +10999,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.916Z",
+      "addedAt": "2026-05-29T08:03:14.961Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -11053,7 +11053,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.916Z",
+      "addedAt": "2026-05-29T08:03:14.961Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -11107,7 +11107,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.916Z",
+      "addedAt": "2026-05-29T08:03:14.961Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -11161,7 +11161,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.916Z",
+      "addedAt": "2026-05-29T08:03:14.961Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -11215,7 +11215,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.916Z",
+      "addedAt": "2026-05-29T08:03:14.961Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -11269,7 +11269,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.916Z",
+      "addedAt": "2026-05-29T08:03:14.961Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -11323,7 +11323,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.916Z",
+      "addedAt": "2026-05-29T08:03:14.961Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -11377,7 +11377,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.845Z",
+      "addedAt": "2026-05-29T08:03:14.890Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -11437,7 +11437,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.846Z",
+      "addedAt": "2026-05-29T08:03:14.890Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -11502,7 +11502,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.846Z",
+      "addedAt": "2026-05-29T08:03:14.890Z",
       "category": "engineering",
       "tags": [
         "requires-cli-tooling"
@@ -11568,7 +11568,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.846Z",
+      "addedAt": "2026-05-29T08:03:14.890Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -11628,7 +11628,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.846Z",
+      "addedAt": "2026-05-29T08:03:14.891Z",
       "category": "engineering",
       "tags": [
         "requires-cli-tooling"
@@ -11693,7 +11693,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.860Z",
+      "addedAt": "2026-05-29T08:03:14.904Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -11750,7 +11750,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.846Z",
+      "addedAt": "2026-05-29T08:03:14.891Z",
       "category": "engineering",
       "tags": [
         "requires-cli-tooling"
@@ -11816,7 +11816,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.846Z",
+      "addedAt": "2026-05-29T08:03:14.891Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -11877,7 +11877,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.847Z",
+      "addedAt": "2026-05-29T08:03:14.891Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -11939,7 +11939,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.847Z",
+      "addedAt": "2026-05-29T08:03:14.891Z",
       "category": "engineering",
       "tags": [
         "requires-cli-tooling"
@@ -12002,7 +12002,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.847Z",
+      "addedAt": "2026-05-29T08:03:14.892Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -12065,7 +12065,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.848Z",
+      "addedAt": "2026-05-29T08:03:14.892Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -12128,7 +12128,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.848Z",
+      "addedAt": "2026-05-29T08:03:14.892Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -12192,7 +12192,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.848Z",
+      "addedAt": "2026-05-29T08:03:14.892Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -12261,7 +12261,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.848Z",
+      "addedAt": "2026-05-29T08:03:14.893Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -12325,7 +12325,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.849Z",
+      "addedAt": "2026-05-29T08:03:14.893Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -12389,7 +12389,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.849Z",
+      "addedAt": "2026-05-29T08:03:14.893Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -12456,7 +12456,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.849Z",
+      "addedAt": "2026-05-29T08:03:14.893Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -12519,7 +12519,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.849Z",
+      "addedAt": "2026-05-29T08:03:14.893Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -12586,7 +12586,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.849Z",
+      "addedAt": "2026-05-29T08:03:14.894Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -12649,7 +12649,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.849Z",
+      "addedAt": "2026-05-29T08:03:14.894Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -12713,7 +12713,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.850Z",
+      "addedAt": "2026-05-29T08:03:14.894Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -12772,7 +12772,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.850Z",
+      "addedAt": "2026-05-29T08:03:14.894Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -12838,7 +12838,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.850Z",
+      "addedAt": "2026-05-29T08:03:14.894Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -12901,7 +12901,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.850Z",
+      "addedAt": "2026-05-29T08:03:14.894Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -12978,7 +12978,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.850Z",
+      "addedAt": "2026-05-29T08:03:14.894Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -13040,7 +13040,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.850Z",
+      "addedAt": "2026-05-29T08:03:14.894Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -13101,7 +13101,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.850Z",
+      "addedAt": "2026-05-29T08:03:14.895Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -13164,7 +13164,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.850Z",
+      "addedAt": "2026-05-29T08:03:14.895Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -13229,7 +13229,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.851Z",
+      "addedAt": "2026-05-29T08:03:14.895Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -13292,7 +13292,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.851Z",
+      "addedAt": "2026-05-29T08:03:14.896Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -13353,7 +13353,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.851Z",
+      "addedAt": "2026-05-29T08:03:14.896Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -13412,7 +13412,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.852Z",
+      "addedAt": "2026-05-29T08:03:14.896Z",
       "category": "engineering",
       "tags": [
         "requires-cli-tooling"
@@ -13480,7 +13480,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.852Z",
+      "addedAt": "2026-05-29T08:03:14.896Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -13540,7 +13540,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.853Z",
+      "addedAt": "2026-05-29T08:03:14.897Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -13611,7 +13611,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.853Z",
+      "addedAt": "2026-05-29T08:03:14.899Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -13669,7 +13669,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.860Z",
+      "addedAt": "2026-05-29T08:03:14.904Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -13715,7 +13715,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.860Z",
+      "addedAt": "2026-05-29T08:03:14.904Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -13761,7 +13761,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.860Z",
+      "addedAt": "2026-05-29T08:03:14.904Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -13807,7 +13807,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.860Z",
+      "addedAt": "2026-05-29T08:03:14.904Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -13853,7 +13853,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.853Z",
+      "addedAt": "2026-05-29T08:03:14.899Z",
       "category": "engineering",
       "tags": [
         "requires-cli-tooling"
@@ -13916,7 +13916,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.854Z",
+      "addedAt": "2026-05-29T08:03:14.899Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -13986,7 +13986,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.854Z",
+      "addedAt": "2026-05-29T08:03:14.900Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -14049,7 +14049,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.855Z",
+      "addedAt": "2026-05-29T08:03:14.900Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -14114,7 +14114,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.855Z",
+      "addedAt": "2026-05-29T08:03:14.900Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -14179,7 +14179,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.855Z",
+      "addedAt": "2026-05-29T08:03:14.901Z",
       "category": "engineering",
       "tags": [
         "requires-cli-tooling"
@@ -14251,7 +14251,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.855Z",
+      "addedAt": "2026-05-29T08:03:14.901Z",
       "category": "engineering",
       "tags": [
         "requires-cli-tooling"
@@ -14321,7 +14321,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.856Z",
+      "addedAt": "2026-05-29T08:03:14.901Z",
       "category": "engineering",
       "tags": [
         "requires-cli-tooling"
@@ -14388,7 +14388,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.856Z",
+      "addedAt": "2026-05-29T08:03:14.901Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -14454,7 +14454,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.856Z",
+      "addedAt": "2026-05-29T08:03:14.902Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -14520,7 +14520,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.856Z",
+      "addedAt": "2026-05-29T08:03:14.902Z",
       "category": "engineering",
       "tags": [
         "requires-cli-tooling"
@@ -14586,7 +14586,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.857Z",
+      "addedAt": "2026-05-29T08:03:14.902Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -14645,7 +14645,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.857Z",
+      "addedAt": "2026-05-29T08:03:14.902Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -14708,7 +14708,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.857Z",
+      "addedAt": "2026-05-29T08:03:14.902Z",
       "category": "engineering",
       "tags": [
         "requires-cli-tooling"
@@ -14778,7 +14778,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.858Z",
+      "addedAt": "2026-05-29T08:03:14.903Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -14844,7 +14844,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.858Z",
+      "addedAt": "2026-05-29T08:03:14.903Z",
       "category": "engineering",
       "tags": [
         "requires-cli-tooling"
@@ -14910,7 +14910,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.858Z",
+      "addedAt": "2026-05-29T08:03:14.903Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -14973,7 +14973,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.860Z",
+      "addedAt": "2026-05-29T08:03:14.903Z",
       "category": "engineering",
       "tags": [
         "requires-cli-tooling"
@@ -15042,7 +15042,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.860Z",
+      "addedAt": "2026-05-29T08:03:14.903Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -15099,7 +15099,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.863Z",
+      "addedAt": "2026-05-29T08:03:14.907Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -15145,7 +15145,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.863Z",
+      "addedAt": "2026-05-29T08:03:14.907Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -15191,7 +15191,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.863Z",
+      "addedAt": "2026-05-29T08:03:14.907Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -15237,7 +15237,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.920Z",
+      "addedAt": "2026-05-29T08:03:14.964Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -15293,7 +15293,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.920Z",
+      "addedAt": "2026-05-29T08:03:14.965Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -15349,7 +15349,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.920Z",
+      "addedAt": "2026-05-29T08:03:14.965Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -15405,7 +15405,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.920Z",
+      "addedAt": "2026-05-29T08:03:14.965Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -15461,7 +15461,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.920Z",
+      "addedAt": "2026-05-29T08:03:14.965Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -15517,7 +15517,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.920Z",
+      "addedAt": "2026-05-29T08:03:14.965Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -15573,7 +15573,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.920Z",
+      "addedAt": "2026-05-29T08:03:14.965Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -15629,7 +15629,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.920Z",
+      "addedAt": "2026-05-29T08:03:14.965Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -15685,7 +15685,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.920Z",
+      "addedAt": "2026-05-29T08:03:14.965Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -15741,7 +15741,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.921Z",
+      "addedAt": "2026-05-29T08:03:14.965Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -15797,7 +15797,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.921Z",
+      "addedAt": "2026-05-29T08:03:14.965Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -15853,7 +15853,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.921Z",
+      "addedAt": "2026-05-29T08:03:14.965Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -15909,7 +15909,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.921Z",
+      "addedAt": "2026-05-29T08:03:14.965Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -15965,7 +15965,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.921Z",
+      "addedAt": "2026-05-29T08:03:14.965Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -16021,7 +16021,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.921Z",
+      "addedAt": "2026-05-29T08:03:14.965Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -16077,7 +16077,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.921Z",
+      "addedAt": "2026-05-29T08:03:14.965Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -16133,7 +16133,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.921Z",
+      "addedAt": "2026-05-29T08:03:14.965Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -16189,7 +16189,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.921Z",
+      "addedAt": "2026-05-29T08:03:14.965Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -16245,7 +16245,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.921Z",
+      "addedAt": "2026-05-29T08:03:14.965Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -16301,7 +16301,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.921Z",
+      "addedAt": "2026-05-29T08:03:14.965Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -16357,7 +16357,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.921Z",
+      "addedAt": "2026-05-29T08:03:14.965Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -16413,7 +16413,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.921Z",
+      "addedAt": "2026-05-29T08:03:14.965Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -16469,7 +16469,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.921Z",
+      "addedAt": "2026-05-29T08:03:14.965Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -16525,7 +16525,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.921Z",
+      "addedAt": "2026-05-29T08:03:14.965Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -16581,7 +16581,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.921Z",
+      "addedAt": "2026-05-29T08:03:14.965Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -16637,7 +16637,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.921Z",
+      "addedAt": "2026-05-29T08:03:14.966Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -16693,7 +16693,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.921Z",
+      "addedAt": "2026-05-29T08:03:14.966Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -16749,7 +16749,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.921Z",
+      "addedAt": "2026-05-29T08:03:14.966Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -16805,7 +16805,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.921Z",
+      "addedAt": "2026-05-29T08:03:14.966Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -16861,7 +16861,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.922Z",
+      "addedAt": "2026-05-29T08:03:14.966Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -16917,7 +16917,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.922Z",
+      "addedAt": "2026-05-29T08:03:14.966Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -16973,7 +16973,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.922Z",
+      "addedAt": "2026-05-29T08:03:14.966Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -17029,7 +17029,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.922Z",
+      "addedAt": "2026-05-29T08:03:14.966Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -17083,7 +17083,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.922Z",
+      "addedAt": "2026-05-29T08:03:14.966Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -17139,7 +17139,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.922Z",
+      "addedAt": "2026-05-29T08:03:14.966Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -17195,7 +17195,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.922Z",
+      "addedAt": "2026-05-29T08:03:14.966Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -17251,7 +17251,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.922Z",
+      "addedAt": "2026-05-29T08:03:14.966Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -17307,7 +17307,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.922Z",
+      "addedAt": "2026-05-29T08:03:14.966Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -17363,7 +17363,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.922Z",
+      "addedAt": "2026-05-29T08:03:14.966Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -17419,7 +17419,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.922Z",
+      "addedAt": "2026-05-29T08:03:14.966Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -17475,7 +17475,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.922Z",
+      "addedAt": "2026-05-29T08:03:14.966Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -17531,7 +17531,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.922Z",
+      "addedAt": "2026-05-29T08:03:14.966Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -17587,7 +17587,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.922Z",
+      "addedAt": "2026-05-29T08:03:14.966Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -17643,7 +17643,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.922Z",
+      "addedAt": "2026-05-29T08:03:14.966Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -17699,7 +17699,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.922Z",
+      "addedAt": "2026-05-29T08:03:14.966Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -17753,7 +17753,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.922Z",
+      "addedAt": "2026-05-29T08:03:14.966Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -17807,7 +17807,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.922Z",
+      "addedAt": "2026-05-29T08:03:14.966Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -17861,7 +17861,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.922Z",
+      "addedAt": "2026-05-29T08:03:14.966Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -17915,7 +17915,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.922Z",
+      "addedAt": "2026-05-29T08:03:14.966Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -17969,7 +17969,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.922Z",
+      "addedAt": "2026-05-29T08:03:14.966Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -18023,7 +18023,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.923Z",
+      "addedAt": "2026-05-29T08:03:14.966Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -18077,7 +18077,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.923Z",
+      "addedAt": "2026-05-29T08:03:14.967Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -18131,7 +18131,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.923Z",
+      "addedAt": "2026-05-29T08:03:14.967Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -18185,7 +18185,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.923Z",
+      "addedAt": "2026-05-29T08:03:14.967Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -18239,7 +18239,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.923Z",
+      "addedAt": "2026-05-29T08:03:14.967Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -18295,7 +18295,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.923Z",
+      "addedAt": "2026-05-29T08:03:14.967Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -18351,7 +18351,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.923Z",
+      "addedAt": "2026-05-29T08:03:14.967Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -18407,7 +18407,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.923Z",
+      "addedAt": "2026-05-29T08:03:14.967Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -18463,7 +18463,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.923Z",
+      "addedAt": "2026-05-29T08:03:14.967Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -18519,7 +18519,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.923Z",
+      "addedAt": "2026-05-29T08:03:14.967Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -18575,7 +18575,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.923Z",
+      "addedAt": "2026-05-29T08:03:14.967Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -18631,7 +18631,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.923Z",
+      "addedAt": "2026-05-29T08:03:14.967Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -18687,7 +18687,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.923Z",
+      "addedAt": "2026-05-29T08:03:14.967Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -18743,7 +18743,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.923Z",
+      "addedAt": "2026-05-29T08:03:14.967Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -18799,7 +18799,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.923Z",
+      "addedAt": "2026-05-29T08:03:14.967Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -18855,7 +18855,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.923Z",
+      "addedAt": "2026-05-29T08:03:14.967Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -18911,7 +18911,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.923Z",
+      "addedAt": "2026-05-29T08:03:14.967Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -18967,7 +18967,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.923Z",
+      "addedAt": "2026-05-29T08:03:14.967Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -19023,7 +19023,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.923Z",
+      "addedAt": "2026-05-29T08:03:14.967Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -19079,7 +19079,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.923Z",
+      "addedAt": "2026-05-29T08:03:14.967Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -19135,7 +19135,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.923Z",
+      "addedAt": "2026-05-29T08:03:14.967Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -19191,7 +19191,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.924Z",
+      "addedAt": "2026-05-29T08:03:14.967Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -19247,7 +19247,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.924Z",
+      "addedAt": "2026-05-29T08:03:14.967Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -19303,7 +19303,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.924Z",
+      "addedAt": "2026-05-29T08:03:14.967Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -19359,7 +19359,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.924Z",
+      "addedAt": "2026-05-29T08:03:14.967Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -19415,7 +19415,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.924Z",
+      "addedAt": "2026-05-29T08:03:14.967Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -19471,7 +19471,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.924Z",
+      "addedAt": "2026-05-29T08:03:14.967Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -19527,7 +19527,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.924Z",
+      "addedAt": "2026-05-29T08:03:14.967Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -19583,7 +19583,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.924Z",
+      "addedAt": "2026-05-29T08:03:14.967Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -19639,7 +19639,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.924Z",
+      "addedAt": "2026-05-29T08:03:14.968Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -19695,7 +19695,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.924Z",
+      "addedAt": "2026-05-29T08:03:14.968Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -19751,7 +19751,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.924Z",
+      "addedAt": "2026-05-29T08:03:14.968Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -19807,7 +19807,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.924Z",
+      "addedAt": "2026-05-29T08:03:14.968Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -19863,7 +19863,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.924Z",
+      "addedAt": "2026-05-29T08:03:14.968Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -19919,7 +19919,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.924Z",
+      "addedAt": "2026-05-29T08:03:14.968Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -19975,7 +19975,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.924Z",
+      "addedAt": "2026-05-29T08:03:14.968Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -20031,7 +20031,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.924Z",
+      "addedAt": "2026-05-29T08:03:14.968Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -20087,7 +20087,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.924Z",
+      "addedAt": "2026-05-29T08:03:14.968Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -20143,7 +20143,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.924Z",
+      "addedAt": "2026-05-29T08:03:14.968Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -20199,7 +20199,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.924Z",
+      "addedAt": "2026-05-29T08:03:14.968Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -20255,7 +20255,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.924Z",
+      "addedAt": "2026-05-29T08:03:14.968Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -20311,7 +20311,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.924Z",
+      "addedAt": "2026-05-29T08:03:14.968Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -20367,7 +20367,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.924Z",
+      "addedAt": "2026-05-29T08:03:14.968Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -20423,7 +20423,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.925Z",
+      "addedAt": "2026-05-29T08:03:14.968Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -20479,7 +20479,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.925Z",
+      "addedAt": "2026-05-29T08:03:14.968Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -20535,7 +20535,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.872Z",
+      "addedAt": "2026-05-29T08:03:14.921Z",
       "category": "data",
       "tags": [],
       "skill": {
@@ -20581,7 +20581,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.872Z",
+      "addedAt": "2026-05-29T08:03:14.921Z",
       "category": "data",
       "tags": [],
       "skill": {
@@ -20627,7 +20627,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.872Z",
+      "addedAt": "2026-05-29T08:03:14.921Z",
       "category": "data",
       "tags": [],
       "skill": {
@@ -20673,7 +20673,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.872Z",
+      "addedAt": "2026-05-29T08:03:14.921Z",
       "category": "data",
       "tags": [],
       "skill": {
@@ -20719,7 +20719,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.872Z",
+      "addedAt": "2026-05-29T08:03:14.921Z",
       "category": "data",
       "tags": [],
       "skill": {
@@ -20765,7 +20765,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.872Z",
+      "addedAt": "2026-05-29T08:03:14.921Z",
       "category": "data",
       "tags": [],
       "skill": {
@@ -20813,7 +20813,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.872Z",
+      "addedAt": "2026-05-29T08:03:14.921Z",
       "category": "data",
       "tags": [],
       "skill": {
@@ -20859,7 +20859,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.872Z",
+      "addedAt": "2026-05-29T08:03:14.921Z",
       "category": "data",
       "tags": [],
       "skill": {
@@ -20905,7 +20905,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.872Z",
+      "addedAt": "2026-05-29T08:03:14.921Z",
       "category": "data",
       "tags": [],
       "skill": {
@@ -20951,7 +20951,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.872Z",
+      "addedAt": "2026-05-29T08:03:14.921Z",
       "category": "data",
       "tags": [],
       "skill": {
@@ -20997,7 +20997,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.872Z",
+      "addedAt": "2026-05-29T08:03:14.921Z",
       "category": "data",
       "tags": [],
       "skill": {
@@ -21043,7 +21043,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.873Z",
+      "addedAt": "2026-05-29T08:03:14.922Z",
       "category": "data",
       "tags": [],
       "skill": {
@@ -21089,7 +21089,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.873Z",
+      "addedAt": "2026-05-29T08:03:14.922Z",
       "category": "data",
       "tags": [],
       "skill": {
@@ -21135,7 +21135,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.873Z",
+      "addedAt": "2026-05-29T08:03:14.922Z",
       "category": "data",
       "tags": [],
       "skill": {
@@ -21181,7 +21181,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.873Z",
+      "addedAt": "2026-05-29T08:03:14.922Z",
       "category": "data",
       "tags": [],
       "skill": {
@@ -21243,7 +21243,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.897Z",
+      "addedAt": "2026-05-29T08:03:14.940Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -21289,7 +21289,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.898Z",
+      "addedAt": "2026-05-29T08:03:14.940Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -21335,7 +21335,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.898Z",
+      "addedAt": "2026-05-29T08:03:14.940Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -21381,7 +21381,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.898Z",
+      "addedAt": "2026-05-29T08:03:14.940Z",
       "category": "productivity",
       "tags": [],
       "skill": {
@@ -21427,7 +21427,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.821Z",
+      "addedAt": "2026-05-29T08:03:14.865Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -21484,7 +21484,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.821Z",
+      "addedAt": "2026-05-29T08:03:14.865Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -21540,7 +21540,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.821Z",
+      "addedAt": "2026-05-29T08:03:14.865Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -21596,7 +21596,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.821Z",
+      "addedAt": "2026-05-29T08:03:14.865Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -21654,7 +21654,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.822Z",
+      "addedAt": "2026-05-29T08:03:14.865Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -21710,7 +21710,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.822Z",
+      "addedAt": "2026-05-29T08:03:14.865Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -21766,7 +21766,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.822Z",
+      "addedAt": "2026-05-29T08:03:14.866Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -21822,7 +21822,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.822Z",
+      "addedAt": "2026-05-29T08:03:14.866Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -21878,7 +21878,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.822Z",
+      "addedAt": "2026-05-29T08:03:14.866Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -21934,7 +21934,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.822Z",
+      "addedAt": "2026-05-29T08:03:14.866Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -21990,7 +21990,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.822Z",
+      "addedAt": "2026-05-29T08:03:14.866Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -22046,7 +22046,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.822Z",
+      "addedAt": "2026-05-29T08:03:14.866Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -22102,7 +22102,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.822Z",
+      "addedAt": "2026-05-29T08:03:14.866Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -22158,7 +22158,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.823Z",
+      "addedAt": "2026-05-29T08:03:14.867Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -22214,7 +22214,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.822Z",
+      "addedAt": "2026-05-29T08:03:14.866Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -22270,7 +22270,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.822Z",
+      "addedAt": "2026-05-29T08:03:14.866Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -22326,7 +22326,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.823Z",
+      "addedAt": "2026-05-29T08:03:14.867Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -22382,7 +22382,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.823Z",
+      "addedAt": "2026-05-29T08:03:14.867Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -22438,7 +22438,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.823Z",
+      "addedAt": "2026-05-29T08:03:14.867Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -22494,7 +22494,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.823Z",
+      "addedAt": "2026-05-29T08:03:14.867Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -22550,7 +22550,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.823Z",
+      "addedAt": "2026-05-29T08:03:14.867Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -22606,7 +22606,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.823Z",
+      "addedAt": "2026-05-29T08:03:14.867Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -22662,7 +22662,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.823Z",
+      "addedAt": "2026-05-29T08:03:14.867Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -22718,7 +22718,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.823Z",
+      "addedAt": "2026-05-29T08:03:14.867Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -22776,7 +22776,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.823Z",
+      "addedAt": "2026-05-29T08:03:14.867Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -22832,7 +22832,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.823Z",
+      "addedAt": "2026-05-29T08:03:14.867Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -22888,7 +22888,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.823Z",
+      "addedAt": "2026-05-29T08:03:14.867Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -22944,7 +22944,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.823Z",
+      "addedAt": "2026-05-29T08:03:14.867Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -23000,7 +23000,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.823Z",
+      "addedAt": "2026-05-29T08:03:14.867Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -23056,7 +23056,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.823Z",
+      "addedAt": "2026-05-29T08:03:14.867Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -23112,7 +23112,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.824Z",
+      "addedAt": "2026-05-29T08:03:14.867Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -23168,7 +23168,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.824Z",
+      "addedAt": "2026-05-29T08:03:14.867Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -23224,7 +23224,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.824Z",
+      "addedAt": "2026-05-29T08:03:14.867Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -23280,7 +23280,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.925Z",
+      "addedAt": "2026-05-29T08:03:14.969Z",
       "category": "data",
       "tags": [],
       "skill": {
@@ -23326,7 +23326,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.925Z",
+      "addedAt": "2026-05-29T08:03:14.969Z",
       "category": "data",
       "tags": [],
       "skill": {
@@ -23372,7 +23372,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.925Z",
+      "addedAt": "2026-05-29T08:03:14.969Z",
       "category": "data",
       "tags": [],
       "skill": {
@@ -23418,7 +23418,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.925Z",
+      "addedAt": "2026-05-29T08:03:14.969Z",
       "category": "data",
       "tags": [],
       "skill": {
@@ -23464,7 +23464,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.917Z",
+      "addedAt": "2026-05-29T08:03:14.961Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -23510,7 +23510,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.917Z",
+      "addedAt": "2026-05-29T08:03:14.962Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -23556,7 +23556,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.917Z",
+      "addedAt": "2026-05-29T08:03:14.962Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -23602,7 +23602,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.917Z",
+      "addedAt": "2026-05-29T08:03:14.962Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -23648,7 +23648,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.917Z",
+      "addedAt": "2026-05-29T08:03:14.962Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -23694,7 +23694,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.917Z",
+      "addedAt": "2026-05-29T08:03:14.962Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -23740,7 +23740,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.917Z",
+      "addedAt": "2026-05-29T08:03:14.962Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -23786,7 +23786,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.917Z",
+      "addedAt": "2026-05-29T08:03:14.962Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -23832,7 +23832,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.917Z",
+      "addedAt": "2026-05-29T08:03:14.962Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -23878,7 +23878,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.918Z",
+      "addedAt": "2026-05-29T08:03:14.962Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -23924,7 +23924,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.918Z",
+      "addedAt": "2026-05-29T08:03:14.962Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -23970,7 +23970,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.918Z",
+      "addedAt": "2026-05-29T08:03:14.962Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -24016,7 +24016,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.918Z",
+      "addedAt": "2026-05-29T08:03:14.962Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -24062,7 +24062,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.861Z",
+      "addedAt": "2026-05-29T08:03:14.905Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -24108,7 +24108,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.861Z",
+      "addedAt": "2026-05-29T08:03:14.905Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -24154,7 +24154,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.861Z",
+      "addedAt": "2026-05-29T08:03:14.905Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -24200,7 +24200,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.861Z",
+      "addedAt": "2026-05-29T08:03:14.905Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -24246,7 +24246,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.861Z",
+      "addedAt": "2026-05-29T08:03:14.905Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -24292,7 +24292,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.861Z",
+      "addedAt": "2026-05-29T08:03:14.905Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -24338,7 +24338,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.861Z",
+      "addedAt": "2026-05-29T08:03:14.905Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -24384,7 +24384,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.861Z",
+      "addedAt": "2026-05-29T08:03:14.905Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -24430,7 +24430,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.861Z",
+      "addedAt": "2026-05-29T08:03:14.905Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -24476,7 +24476,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.861Z",
+      "addedAt": "2026-05-29T08:03:14.905Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -24522,7 +24522,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.861Z",
+      "addedAt": "2026-05-29T08:03:14.905Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -24568,7 +24568,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.861Z",
+      "addedAt": "2026-05-29T08:03:14.905Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -24614,7 +24614,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.861Z",
+      "addedAt": "2026-05-29T08:03:14.905Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -24660,7 +24660,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.861Z",
+      "addedAt": "2026-05-29T08:03:14.905Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -24706,7 +24706,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.892Z",
+      "addedAt": "2026-05-29T08:03:14.934Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -24752,7 +24752,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.892Z",
+      "addedAt": "2026-05-29T08:03:14.934Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -24798,7 +24798,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.892Z",
+      "addedAt": "2026-05-29T08:03:14.934Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -24844,7 +24844,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.892Z",
+      "addedAt": "2026-05-29T08:03:14.934Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -24890,7 +24890,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.892Z",
+      "addedAt": "2026-05-29T08:03:14.934Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -24936,7 +24936,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.892Z",
+      "addedAt": "2026-05-29T08:03:14.934Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -24982,7 +24982,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.892Z",
+      "addedAt": "2026-05-29T08:03:14.934Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -25028,7 +25028,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.892Z",
+      "addedAt": "2026-05-29T08:03:14.934Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -25074,7 +25074,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.892Z",
+      "addedAt": "2026-05-29T08:03:14.935Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -25120,7 +25120,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.892Z",
+      "addedAt": "2026-05-29T08:03:14.935Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -25166,7 +25166,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.892Z",
+      "addedAt": "2026-05-29T08:03:14.935Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -25212,7 +25212,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.892Z",
+      "addedAt": "2026-05-29T08:03:14.935Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -25258,7 +25258,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.893Z",
+      "addedAt": "2026-05-29T08:03:14.935Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -25304,7 +25304,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.893Z",
+      "addedAt": "2026-05-29T08:03:14.935Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -25356,7 +25356,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.893Z",
+      "addedAt": "2026-05-29T08:03:14.935Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -25402,7 +25402,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.893Z",
+      "addedAt": "2026-05-29T08:03:14.935Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -25448,7 +25448,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.893Z",
+      "addedAt": "2026-05-29T08:03:14.935Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -25494,7 +25494,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.893Z",
+      "addedAt": "2026-05-29T08:03:14.935Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -25546,7 +25546,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.893Z",
+      "addedAt": "2026-05-29T08:03:14.935Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -25592,7 +25592,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.893Z",
+      "addedAt": "2026-05-29T08:03:14.935Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -25638,7 +25638,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.893Z",
+      "addedAt": "2026-05-29T08:03:14.936Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -25690,7 +25690,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.893Z",
+      "addedAt": "2026-05-29T08:03:14.936Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -25742,7 +25742,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.893Z",
+      "addedAt": "2026-05-29T08:03:14.936Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -25794,7 +25794,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.893Z",
+      "addedAt": "2026-05-29T08:03:14.936Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -25846,7 +25846,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.893Z",
+      "addedAt": "2026-05-29T08:03:14.936Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -25892,7 +25892,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.893Z",
+      "addedAt": "2026-05-29T08:03:14.936Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -25938,7 +25938,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.893Z",
+      "addedAt": "2026-05-29T08:03:14.936Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -25984,7 +25984,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.894Z",
+      "addedAt": "2026-05-29T08:03:14.936Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -26030,7 +26030,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.894Z",
+      "addedAt": "2026-05-29T08:03:14.936Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -26076,7 +26076,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.894Z",
+      "addedAt": "2026-05-29T08:03:14.936Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -26122,7 +26122,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.894Z",
+      "addedAt": "2026-05-29T08:03:14.936Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -26168,7 +26168,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.894Z",
+      "addedAt": "2026-05-29T08:03:14.936Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -26214,7 +26214,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.894Z",
+      "addedAt": "2026-05-29T08:03:14.936Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -26260,7 +26260,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.894Z",
+      "addedAt": "2026-05-29T08:03:14.936Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -26306,7 +26306,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.894Z",
+      "addedAt": "2026-05-29T08:03:14.936Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -26352,7 +26352,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.894Z",
+      "addedAt": "2026-05-29T08:03:14.937Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -26398,7 +26398,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.894Z",
+      "addedAt": "2026-05-29T08:03:14.937Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -26444,7 +26444,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.894Z",
+      "addedAt": "2026-05-29T08:03:14.937Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -26490,7 +26490,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.894Z",
+      "addedAt": "2026-05-29T08:03:14.937Z",
       "category": "engineering",
       "tags": [],
       "skill": {
@@ -26536,7 +26536,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.926Z",
+      "addedAt": "2026-05-29T08:03:14.971Z",
       "category": "data",
       "tags": [],
       "skill": {
@@ -26592,7 +26592,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.926Z",
+      "addedAt": "2026-05-29T08:03:14.971Z",
       "category": "data",
       "tags": [],
       "skill": {
@@ -26648,7 +26648,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.926Z",
+      "addedAt": "2026-05-29T08:03:14.971Z",
       "category": "data",
       "tags": [],
       "skill": {
@@ -26704,7 +26704,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.926Z",
+      "addedAt": "2026-05-29T08:03:14.971Z",
       "category": "data",
       "tags": [],
       "skill": {
@@ -26760,7 +26760,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.927Z",
+      "addedAt": "2026-05-29T08:03:14.971Z",
       "category": "data",
       "tags": [],
       "skill": {
@@ -26816,7 +26816,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.927Z",
+      "addedAt": "2026-05-29T08:03:14.971Z",
       "category": "data",
       "tags": [],
       "skill": {
@@ -26872,7 +26872,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.927Z",
+      "addedAt": "2026-05-29T08:03:14.971Z",
       "category": "data",
       "tags": [],
       "skill": {
@@ -26928,7 +26928,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.927Z",
+      "addedAt": "2026-05-29T08:03:14.971Z",
       "category": "data",
       "tags": [],
       "skill": {
@@ -26984,7 +26984,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.927Z",
+      "addedAt": "2026-05-29T08:03:14.971Z",
       "category": "data",
       "tags": [],
       "skill": {
@@ -27040,7 +27040,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.899Z",
+      "addedAt": "2026-05-29T08:03:14.941Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -27121,7 +27121,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.899Z",
+      "addedAt": "2026-05-29T08:03:14.941Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -27185,7 +27185,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.899Z",
+      "addedAt": "2026-05-29T08:03:14.942Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -27255,7 +27255,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.899Z",
+      "addedAt": "2026-05-29T08:03:14.942Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -27349,7 +27349,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.899Z",
+      "addedAt": "2026-05-29T08:03:14.942Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -27450,7 +27450,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.863Z",
+      "addedAt": "2026-05-29T08:03:14.908Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -27496,7 +27496,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.864Z",
+      "addedAt": "2026-05-29T08:03:14.908Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -27556,7 +27556,7 @@
         "source": "github-skills"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:36.864Z",
+      "addedAt": "2026-05-29T08:03:14.908Z",
       "category": "integrations",
       "tags": [],
       "skill": {
@@ -27602,7 +27602,7 @@
         "source": "aoa-curated"
       },
       "status": "active",
-      "addedAt": "2026-05-29T06:58:07.260Z",
+      "addedAt": "2026-05-29T08:02:29.517Z",
       "category": "workflows",
       "tags": [
         "official",
