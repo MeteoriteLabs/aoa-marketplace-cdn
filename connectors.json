@@ -1,0 +1,290 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-07-30T14:50:02.497Z",
+  "entryCount": 14,
+  "entries": [
+    {
+      "id": "brave-search",
+      "displayName": "Brave Search",
+      "description": "Web and local search via the Brave Search API. Brave's official MCP server, run locally over stdio and authenticated with a Brave Search API key (BRAVE_API_KEY).",
+      "serverName": "brave-search",
+      "transport": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@brave/brave-search-mcp-server@2.1.0",
+        "--transport",
+        "stdio"
+      ],
+      "headerTemplateKeys": [],
+      "envTemplateKeys": [
+        "BRAVE_API_KEY"
+      ],
+      "requiresSecret": true,
+      "requiresOAuth": false,
+      "secretLabel": "Brave Search API key",
+      "docsUrl": "https://github.com/brave/brave-search-mcp-server",
+      "trust": {
+        "tier": "verified"
+      }
+    },
+    {
+      "id": "fetch",
+      "displayName": "Fetch",
+      "description": "Fetch a URL and convert it to markdown for model consumption. Official Model Context Protocol reference server (Python, run via uvx). No credentials required.",
+      "serverName": "fetch",
+      "transport": "stdio",
+      "command": "uvx",
+      "args": [
+        "mcp-server-fetch@2026.7.10"
+      ],
+      "headerTemplateKeys": [],
+      "envTemplateKeys": [],
+      "requiresSecret": false,
+      "requiresOAuth": false,
+      "docsUrl": "https://github.com/modelcontextprotocol/servers/tree/main/src/fetch",
+      "trust": {
+        "tier": "verified"
+      }
+    },
+    {
+      "id": "filesystem",
+      "displayName": "Filesystem",
+      "description": "Read and write files within explicitly allowed directories. Official Model Context Protocol reference server (TypeScript). Pass the allowed root path(s) as trailing args; \".\" scopes it to the agent's working directory.",
+      "serverName": "filesystem",
+      "transport": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem@2026.7.10",
+        "."
+      ],
+      "headerTemplateKeys": [],
+      "envTemplateKeys": [],
+      "requiresSecret": false,
+      "requiresOAuth": false,
+      "docsUrl": "https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem",
+      "trust": {
+        "tier": "verified"
+      }
+    },
+    {
+      "id": "git",
+      "displayName": "Git",
+      "description": "Read, search, and manipulate Git repositories. Official Model Context Protocol reference server (Python, run via uvx). Repository path is supplied per tool call.",
+      "serverName": "git",
+      "transport": "stdio",
+      "command": "uvx",
+      "args": [
+        "mcp-server-git@2026.7.10"
+      ],
+      "headerTemplateKeys": [],
+      "envTemplateKeys": [],
+      "requiresSecret": false,
+      "requiresOAuth": false,
+      "docsUrl": "https://github.com/modelcontextprotocol/servers/tree/main/src/git",
+      "trust": {
+        "tier": "verified"
+      }
+    },
+    {
+      "id": "github-hosted",
+      "displayName": "GitHub (hosted)",
+      "description": "GitHub's official remote MCP server. Authenticates headlessly with a GitHub Personal Access Token passed as a Bearer token in the Authorization header. (GitHub's remote server supports both OAuth and PAT; the PAT path works under our token model, so this ships installable rather than OAuth-gated.)",
+      "serverName": "github-hosted",
+      "transport": "http",
+      "url": "https://api.githubcopilot.com/mcp/",
+      "args": [],
+      "headerTemplateKeys": [
+        "Authorization"
+      ],
+      "envTemplateKeys": [],
+      "requiresSecret": true,
+      "requiresOAuth": false,
+      "secretLabel": "GitHub Personal Access Token",
+      "docsUrl": "https://github.com/github/github-mcp-server",
+      "trust": {
+        "tier": "verified"
+      }
+    },
+    {
+      "id": "linear",
+      "displayName": "Linear",
+      "description": "Read and manage Linear issues, projects, and cycles. Linear's official hosted MCP server. Authenticates headlessly with a Linear personal API key passed as a Bearer token in the Authorization header (Linear supports API-key auth as an alternative to interactive OAuth).",
+      "serverName": "linear",
+      "transport": "http",
+      "url": "https://mcp.linear.app/mcp",
+      "args": [],
+      "headerTemplateKeys": [
+        "Authorization"
+      ],
+      "envTemplateKeys": [],
+      "requiresSecret": true,
+      "requiresOAuth": false,
+      "secretLabel": "Linear personal API key",
+      "docsUrl": "https://linear.app/docs/mcp",
+      "trust": {
+        "tier": "verified"
+      }
+    },
+    {
+      "id": "memory",
+      "displayName": "Memory (Knowledge Graph)",
+      "description": "A local knowledge-graph memory the agent can read and write across a session. Official Model Context Protocol reference server (TypeScript). No credentials required.",
+      "serverName": "memory",
+      "transport": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-memory@2026.7.4"
+      ],
+      "headerTemplateKeys": [],
+      "envTemplateKeys": [],
+      "requiresSecret": false,
+      "requiresOAuth": false,
+      "docsUrl": "https://github.com/modelcontextprotocol/servers/tree/main/src/memory",
+      "trust": {
+        "tier": "verified"
+      }
+    },
+    {
+      "id": "notion-hosted",
+      "displayName": "Notion (hosted)",
+      "description": "Notion's hosted MCP server. OAuth 2.0 + PKCE ONLY — it explicitly does not accept a bearer token and requires an interactive browser flow, so it cannot run headlessly under the token model. Shown for visibility; not installable until the OAuth broker lands (Plan 4). Use the self-hosted Notion connector for token-based access today.",
+      "serverName": "notion-hosted",
+      "transport": "http",
+      "url": "https://mcp.notion.com/mcp",
+      "args": [],
+      "headerTemplateKeys": [],
+      "envTemplateKeys": [],
+      "requiresSecret": false,
+      "requiresOAuth": true,
+      "docsUrl": "https://developers.notion.com/docs/mcp",
+      "trust": {
+        "tier": "verified"
+      }
+    },
+    {
+      "id": "notion-local",
+      "displayName": "Notion (self-hosted)",
+      "description": "Notion's official MCP server run locally over stdio, authenticated with a Notion internal integration token (NOTION_TOKEN). Works headlessly under the token model — no browser OAuth. Create the integration and share pages with it in Notion settings.",
+      "serverName": "notion-local",
+      "transport": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@notionhq/notion-mcp-server@2.5.1"
+      ],
+      "headerTemplateKeys": [],
+      "envTemplateKeys": [
+        "NOTION_TOKEN"
+      ],
+      "requiresSecret": true,
+      "requiresOAuth": false,
+      "secretLabel": "Notion internal integration token",
+      "docsUrl": "https://developers.notion.com/docs/mcp",
+      "trust": {
+        "tier": "verified"
+      }
+    },
+    {
+      "id": "postgres",
+      "displayName": "PostgreSQL (read-only)",
+      "description": "Read-only SQL access and schema inspection over a PostgreSQL database. ARCHIVED Model Context Protocol reference server (moved to modelcontextprotocol/servers-archived; unmaintained). The connection string — which embeds credentials — is supplied as the bound secret.",
+      "serverName": "postgres",
+      "transport": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-postgres@0.6.2",
+        "${TOKEN}"
+      ],
+      "headerTemplateKeys": [],
+      "envTemplateKeys": [],
+      "requiresSecret": true,
+      "requiresOAuth": false,
+      "secretLabel": "PostgreSQL connection string (postgresql://user:password@host:port/db)",
+      "docsUrl": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/postgres",
+      "trust": {
+        "tier": "community"
+      }
+    },
+    {
+      "id": "sentry",
+      "displayName": "Sentry",
+      "description": "Sentry's hosted MCP server for issue and error inspection. Its token path uses a non-standard 'Sentry-Bearer' Authorization scheme (Sentry reserves plain 'Bearer' for its own MCP OAuth tokens), which our header synthesis — standard 'Bearer' only — cannot express. Shown via its OAuth path only; not installable until the OAuth broker lands (Plan 4).",
+      "serverName": "sentry",
+      "transport": "http",
+      "url": "https://mcp.sentry.dev/mcp",
+      "args": [],
+      "headerTemplateKeys": [],
+      "envTemplateKeys": [],
+      "requiresSecret": false,
+      "requiresOAuth": true,
+      "docsUrl": "https://mcp.sentry.dev",
+      "trust": {
+        "tier": "community"
+      }
+    },
+    {
+      "id": "sequential-thinking",
+      "displayName": "Sequential Thinking",
+      "description": "Structured step-by-step reasoning scaffold for complex problem solving. Official Model Context Protocol reference server (TypeScript). No credentials required.",
+      "serverName": "sequential-thinking",
+      "transport": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-sequential-thinking@2026.7.4"
+      ],
+      "headerTemplateKeys": [],
+      "envTemplateKeys": [],
+      "requiresSecret": false,
+      "requiresOAuth": false,
+      "docsUrl": "https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking",
+      "trust": {
+        "tier": "verified"
+      }
+    },
+    {
+      "id": "sqlite",
+      "displayName": "SQLite",
+      "description": "Query and inspect a local SQLite database file. ARCHIVED Model Context Protocol reference server (moved to modelcontextprotocol/servers-archived; unmaintained; Python, run via uvx). Point --db-path at your database file. No credentials required.",
+      "serverName": "sqlite",
+      "transport": "stdio",
+      "command": "uvx",
+      "args": [
+        "mcp-server-sqlite@2025.4.25",
+        "--db-path",
+        "./data/mcp.db"
+      ],
+      "headerTemplateKeys": [],
+      "envTemplateKeys": [],
+      "requiresSecret": false,
+      "requiresOAuth": false,
+      "docsUrl": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/sqlite",
+      "trust": {
+        "tier": "community"
+      }
+    },
+    {
+      "id": "time",
+      "displayName": "Time",
+      "description": "Current time and timezone conversion utilities. Official Model Context Protocol reference server (Python, run via uvx). No credentials required.",
+      "serverName": "time",
+      "transport": "stdio",
+      "command": "uvx",
+      "args": [
+        "mcp-server-time@2026.7.10"
+      ],
+      "headerTemplateKeys": [],
+      "envTemplateKeys": [],
+      "requiresSecret": false,
+      "requiresOAuth": false,
+      "docsUrl": "https://github.com/modelcontextprotocol/servers/tree/main/src/time",
+      "trust": {
+        "tier": "verified"
+      }
+    }
+  ]
+}
